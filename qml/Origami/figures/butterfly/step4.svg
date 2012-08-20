@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="113.386"
+   height="113.386"
+   viewBox="0 0 113.386 113.386"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata13"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs11" />
+<rect
+   width="70.255997"
+   height="70.255997"
+   x="19.995001"
+   y="22.113001"
+   transform="matrix(0.7071,0.7071,-0.7071,0.7071,56.6218,-22.2124)"
+   id="rect3"
+   style="fill:#b9e5fb;stroke:#000000" />
+<line
+   fill="#B9E5FB"
+   stroke="#000000"
+   x1="55.445999"
+   y1="107.207"
+   x2="55.445999"
+   y2="7.3969998"
+   id="line5"
+   style="fill:#b9e5fb;stroke:#000000" />
+<line
+   fill="#B9E5FB"
+   stroke="#000000"
+   x1="5.54"
+   y1="57.300999"
+   x2="105.35"
+   y2="57.300999"
+   id="line7"
+   style="fill:#b9e5fb;stroke:#000000" />
+</svg>

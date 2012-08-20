@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="113.386"
+   height="113.386"
+   viewBox="0 0 113.386 113.386"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" />
+<line
+   fill="none"
+   stroke="#000000"
+   x1="60.238998"
+   y1="91.625"
+   x2="31.492001"
+   y2="15.494"
+   id="line3"
+   style="fill:none;stroke:#000000" />
+<polyline
+   fill="#B9E5FB"
+   stroke="#000000"
+   points="31.492,15.494 60.071,15.362 59.995,91.625 31.422,14.901 "
+   id="polyline5"
+   style="fill:#b9e5fb;stroke:#000000" />
+<polyline
+   fill="#B9E5FB"
+   stroke="#000000"
+   points="82.591,34.946 60.071,15.362 60.231,91.625 82.591,34.946 "
+   id="polyline7"
+   style="fill:#b9e5fb;stroke:#000000" />
+<line
+   fill="none"
+   stroke="#BCBEC0"
+   stroke-dasharray="3"
+   x1="58.808998"
+   y1="15.789"
+   x2="41.083"
+   y2="39.182999"
+   id="line9"
+   style="fill:none;stroke:#bcbec0;stroke-dasharray:3" />
+<path
+   d="M 61.02,51.097"
+   inkscape:connector-curvature="0"
+   id="path11"
+   style="stroke:#000000;stroke-dasharray:3" />
+<polygon
+   points="60.102,46.759 83.625,64.133 83.625,35.588 60.231,15.014 "
+   id="polygon13"
+   style="fill:#ffffff;stroke:#000000" />
+<polygon
+   points="60.102,46.759 83.625,64.133 83.625,35.588 78.482,31.479 "
+   id="polygon15"
+   style="fill:#b9e5fb;stroke:#000000" />
+<line
+   fill="none"
+   stroke="#9D9FA2"
+   stroke-dasharray="3"
+   x1="61.146999"
+   y1="46.889"
+   x2="83.619003"
+   y2="36.23"
+   id="line17"
+   style="fill:none;stroke:#9d9fa2;stroke-dasharray:3" />
+</svg>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="127.559"
+   height="127.56"
+   viewBox="0 0 127.559 127.56"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata33"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs31" />
+<polygon
+   points="8.69,93.61 120.356,93.61 65.021,35.781 "
+   id="polygon3"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="8.69,92.113 120.356,92.113 65.021,33.289 "
+   id="polygon5"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="65.086,92.067 36.919,62.609 65.021,33.289 "
+   id="polygon7"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="65.086,92.067 93.022,62.609 64.92,33.289 "
+   id="polygon9"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:round" />
+<g
+   id="g11">
+	<path
+   d="m 61.219,52.406 c 0,0 -2.883,-8.464 0.617,-13.214"
+   inkscape:connector-curvature="0"
+   id="path13"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+	<path
+   d="m 62.889,54.026 c -0.088,-1.142 -0.064,-1.914 -0.051,-2.859 l -3.115,1.21 c 0.253,0.24 1.188,1.243 1.894,2.145 0.755,0.961 1.365,1.865 1.695,2.475 -0.166,-0.673 -0.328,-1.752 -0.423,-2.971 z"
+   inkscape:connector-curvature="0"
+   id="path15" />
+</g>
+<g
+   id="g17">
+	<path
+   d="m 69.067,52.406 c 0,0 2.883,-8.464 -0.617,-13.214"
+   inkscape:connector-curvature="0"
+   id="path19"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+	<path
+   d="m 67.397,54.026 c 0.088,-1.142 0.064,-1.914 0.051,-2.859 l 3.115,1.21 c -0.254,0.24 -1.188,1.243 -1.895,2.145 -0.754,0.961 -1.364,1.865 -1.695,2.475 0.168,-0.673 0.328,-1.752 0.424,-2.971 z"
+   inkscape:connector-curvature="0"
+   id="path21" />
+</g>
+<polygon
+   points="64.961,62.692 51.044,47.662 51.068,77.276 "
+   id="polygon23"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="64.961,62.692 78.746,47.662 78.721,77.276 "
+   id="polygon25"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:round" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-dasharray="4,4,4"
+   x1="51.085999"
+   y1="47.442001"
+   x2="78.335999"
+   y2="47.442001"
+   id="line27"
+   style="fill:none;stroke:#000000;stroke-dasharray:4, 4, 4" />
+</svg>

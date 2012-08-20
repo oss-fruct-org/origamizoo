@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="113.386"
+   height="113.386"
+   viewBox="0 0 113.386 113.386"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs17" />
+<polyline
+   fill="#B9E5FB"
+   stroke="#000000"
+   points="55.363,3.145 56.463,105.901 78.424,54.693 55.363,3.145 "
+   id="polyline3"
+   style="fill:#b9e5fb;stroke:#000000" />
+<polyline
+   fill="#B9E5FB"
+   stroke="#000000"
+   points="55.363,3.145 31.813,54.693 54.073,105.901 55.363,3.145 "
+   id="polyline5"
+   style="fill:#b9e5fb;stroke:#000000" />
+<line
+   fill="#B9E5FB"
+   stroke="#BCBEC0"
+   stroke-dasharray="3,3,3"
+   x1="33.019001"
+   y1="54.693001"
+   x2="77.911003"
+   y2="54.693001"
+   id="line7"
+   style="fill:#b9e5fb;stroke:#bcbec0;stroke-dasharray:3, 3, 3" />
+<line
+   fill="#B9E5FB"
+   stroke="#000000"
+   stroke-width="2"
+   x1="54.263"
+   y1="54.487999"
+   x2="56.367001"
+   y2="54.487999"
+   id="line9"
+   style="fill:#b9e5fb;stroke:#000000;stroke-width:2" />
+<polyline
+   fill="none"
+   stroke="#000000"
+   points="57.922,103.205 57.766,105.602 78.907,56.285 78.199,54.163 "
+   id="polyline11"
+   style="fill:none;stroke:#000000" />
+<polyline
+   fill="none"
+   stroke="#000000"
+   points="54.33,103.66 55.375,105.752 55.565,54.636 "
+   id="polyline13"
+   style="fill:none;stroke:#000000" />
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="127.559"
+   height="127.56"
+   viewBox="0 0 127.559 127.56"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata27"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs25" />
+<polygon
+   points="87.991,24.231 114.272,50.924 63.582,101.614 18.9,56.933 38.18,24.231 "
+   id="polygon3"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<line
+   fill="none"
+   stroke="#BCBEC0"
+   stroke-width="0.5"
+   stroke-dasharray="4,4,4"
+   x1="63.186001"
+   y1="99.021004"
+   x2="63.186001"
+   y2="24.862"
+   id="line5"
+   style="fill:none;stroke:#bcbec0;stroke-width:0.5;stroke-dasharray:4, 4, 4" />
+<polygon
+   points="7.439,45.958 15.293,79.391 39.076,23.744 "
+   id="polygon7"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="120.075,45.958 112.223,79.391 88.438,23.744 "
+   id="polygon9"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-dasharray="2"
+   x1="31.139999"
+   y1="80.158997"
+   x2="95.577003"
+   y2="80.158997"
+   id="line11"
+   style="fill:none;stroke:#000000;stroke-dasharray:2" />
+<g
+   id="g13">
+	<path
+   d="m 81.836,72.381 c 0,0 6.355,8.497 -1.992,19.066"
+   inkscape:connector-curvature="0"
+   id="path15"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+	<path
+   d="m 80.817,71.612 c 0.205,1.043 0.252,1.763 0.33,2.642 l 3.17,-1.508 c -0.291,-0.188 -1.375,-1.004 -2.205,-1.75 -0.891,-0.797 -1.625,-1.559 -2.029,-2.081 0.24,0.602 0.517,1.579 0.734,2.697 z"
+   inkscape:connector-curvature="0"
+   id="path17" />
+</g>
+<rect
+   width="14.904"
+   height="14.608"
+   x="56.041"
+   y="83.891998"
+   transform="matrix(0.7072,0.707,-0.707,0.7072,83.0714,-18.1878)"
+   id="rect19"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:round" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-linejoin="round"
+   x1="53.058998"
+   y1="91.091003"
+   x2="73.737"
+   y2="91.091003"
+   id="line21"
+   style="fill:none;stroke:#000000;stroke-linejoin:round" />
+</svg>

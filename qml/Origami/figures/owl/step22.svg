@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="113.386px" height="113.386px" viewBox="0 0 113.386 113.386" overflow="inherit" xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-width="3" x1="79.621" y1="76.373" x2="94.252" y2="76.297"/>
+<path d="M104.389,76.256c-1.559-0.229-3.963-0.867-6.615-1.811c-2.479-0.885-4.09-1.699-6.078-2.643l0.045,9.039
+	c0.707-0.408,3.582-1.797,6.051-2.705C100.436,77.168,102.832,76.502,104.389,76.256"/>
+<polygon fill="#B9E5FB" stroke="#000000" stroke-linejoin="round" points="72.057,40.541 81.219,36.09 108.709,54.417 
+	68.654,61.748 74.998,47.784 "/>
+<polygon fill="#B9E5FB" stroke="#000000" stroke-linejoin="round" points="40.579,40.125 32.264,36.09 4.776,54.417 43.887,61.723 
+	37.792,47.352 "/>
+<polygon fill="#B9E5FB" stroke="#000000" stroke-linejoin="round" points="66.094,26.105 75.041,47.289 56.173,88.887 
+	37.585,47.179 46.325,26.105 "/>
+<line fill="none" stroke="#000000" stroke-linejoin="round" x1="38.182" y1="47.552" x2="4.776" y2="54.417"/>
+<g>
+	<polyline fill="#B9E5FB" stroke="#000000" stroke-linejoin="round" points="49.955,26.212 47.859,30.694 64.266,30.694 
+		62.289,26.232 49.955,26.212 	"/>
+	<polygon fill="#B9E5FB" stroke="#000000" stroke-linejoin="round" points="49.723,26.365 56.235,40.667 62.289,26.232 	"/>
+</g>
+<polygon fill="#B9E5FB" stroke="#000000" stroke-linejoin="round" points="66.094,26.105 64.34,30.88 47.934,30.887 46.325,26.105 
+	"/>
+<line fill="none" stroke="#000000" stroke-linejoin="round" x1="75.301" y1="47.552" x2="108.709" y2="54.417"/>
+<polyline fill="none" stroke="#000000" stroke-linejoin="round" points="37.471,47.611 55.948,40.671 75.301,47.552 "/>
+<line fill="none" stroke="#000000" stroke-dasharray="2,2,2" x1="56.338" y1="74.967" x2="56.149" y2="88.799"/>
+<polyline fill="none" stroke="#000000" stroke-dasharray="2,2,2" points="49.534,81.904 56.602,74.574 63.146,82.689 "/>
+<path fill="none" stroke="#000000" stroke-width="0.5" d="M66.068,76.322c0,0-3.445,5.582-7.896,4.012"/>
+<path d="M65.934,75.229c-0.768,0.617-1.324,0.973-2.004,1.424l2.369,1.623c0.047-0.295,0.309-1.445,0.604-2.385
+	c0.316-0.998,0.66-1.875,0.934-2.402C67.439,73.932,66.754,74.572,65.934,75.229z"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" d="M46.851,76.322c0,0,3.443,5.582,7.896,4.012"/>
+<path d="M46.985,75.229c0.768,0.617,1.325,0.973,2.005,1.424l-2.369,1.623c-0.048-0.295-0.309-1.445-0.604-2.385
+	c-0.313-0.998-0.66-1.875-0.935-2.402C45.478,73.932,46.165,74.572,46.985,75.229z"/>
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="113.386"
+   height="113.386"
+   viewBox="0 0 113.386 113.386"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" />
+<polyline
+   fill="#B9E5FB"
+   stroke="#000000"
+   points="55.589,107.066 40.548,31.329 55.765,2.352 70.706,31.329 55.589,107.066 "
+   id="polyline3"
+   style="fill:#b9e5fb;stroke:#000000" />
+<polyline
+   fill="none"
+   stroke="#000000"
+   stroke-width="0.5"
+   points="40.548,31.329 55.047,50.222 43.245,45.143 "
+   id="polyline5"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+<polyline
+   fill="none"
+   stroke="#000000"
+   stroke-width="0.5"
+   points="70.335,31.329 55.836,50.222 67.638,45.143 "
+   id="polyline7"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+<line
+   fill="#B9E5FB"
+   stroke="#000000"
+   x1="55.589001"
+   y1="107.066"
+   x2="55.589001"
+   y2="2.0420001"
+   id="line9"
+   style="fill:#b9e5fb;stroke:#000000" />
+<line
+   fill="#B9E5FB"
+   stroke="#000000"
+   x1="55.271"
+   y1="50.167"
+   x2="55.589001"
+   y2="107.066"
+   id="line11"
+   style="fill:#b9e5fb;stroke:#000000" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-dasharray="2,2,2,2"
+   x1="55.715"
+   y1="52.594002"
+   x2="45.273998"
+   y2="56.316002"
+   id="line13"
+   style="fill:none;stroke:#000000;stroke-dasharray:2, 2, 2, 2" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-dasharray="2,2,2,2"
+   x1="55.73"
+   y1="52.594002"
+   x2="66.171997"
+   y2="56.316002"
+   id="line15"
+   style="fill:none;stroke:#000000;stroke-dasharray:2, 2, 2, 2" />
+</svg>

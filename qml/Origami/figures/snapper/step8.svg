@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="127.559"
+   height="127.56"
+   viewBox="0 0 127.559 127.56"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" />
+<path
+   d="m 113.346,5.616 c -2.877,0.362 -4.836,0.374 -7.229,0.447 l 3.422,7.751 c 0.568,-0.666 3.007,-3.147 5.208,-5.029 2.342,-2.02 4.563,-3.667 6.081,-4.57 -1.688,0.498 -4.399,1.026 -7.482,1.401"
+   inkscape:connector-curvature="0"
+   id="path3" />
+<rect
+   width="58.917999"
+   height="58.917"
+   x="34.359001"
+   y="50.221001"
+   transform="matrix(0.7071,-0.7071,0.7071,0.7071,-37.6501,68.464)"
+   id="rect5"
+   style="fill:#ffffff;stroke:#000000" />
+<polygon
+   points="15.053,75.41 55.911,32.958 63.818,121.341 "
+   id="polygon7"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="112.583,75.404 71.723,32.958 63.818,121.341 "
+   id="polygon9"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<path
+   d="m 83.786,36.85 c 0,0 4.454,-21.276 27.692,-28.22"
+   inkscape:connector-curvature="0"
+   id="path11"
+   style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round" />
+<path
+   d="m 14.598,5.616 c 2.879,0.362 4.838,0.374 7.232,0.447 l -3.422,7.751 C 17.834,13.148 15.4,10.667 13.198,8.785 10.857,6.765 8.635,5.118 7.119,4.215 c 1.688,0.498 4.396,1.026 7.479,1.401"
+   inkscape:connector-curvature="0"
+   id="path13" />
+<path
+   d="m 44.16,36.85 c 0,0 -4.455,-21.276 -27.693,-28.22"
+   inkscape:connector-curvature="0"
+   id="path15"
+   style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round" />
+</svg>

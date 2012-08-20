@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="127.559"
+   height="127.56"
+   viewBox="0 0 127.559 127.56"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs17" />
+<polygon
+   points="68.525,42.483 76.802,109.204 123.432,49.656 98.89,32.934 "
+   id="polygon3"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="58.258,42.483 49.981,109.204 3.349,49.656 27.893,32.934 "
+   id="polygon5"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="95.749,30.657 123.432,49.656 63.495,109.859 3.292,49.656 30.667,30.822 "
+   id="polygon7"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<line
+   stroke="#BCBEC0"
+   stroke-dasharray="4,4,4"
+   x1="63.985001"
+   y1="106.459"
+   x2="63.985001"
+   y2="41.493999"
+   id="line9"
+   style="stroke:#bcbec0;stroke-dasharray:4, 4, 4" />
+<polyline
+   fill="#B9E5FB"
+   stroke="#000000"
+   stroke-linejoin="round"
+   points="30.667,30.822 96.273,30.822 86.425,40.947   41.891,40.947 30.638,30.325 "
+   id="polyline11"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="64.365,14.352 86.218,40.124 41.684,40.124 "
+   id="polygon13"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+</svg>

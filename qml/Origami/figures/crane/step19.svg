@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="113.386"
+   height="113.386"
+   viewBox="0 0 113.386 113.386"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata27"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs25" />
+<g
+   id="g3">
+	<polygon
+   points="42.713,45.392 73.803,45.763 71.821,50.099 58.816,78.09 42.836,46.753 "
+   id="polygon5"
+   style="fill:#b9e5fb;stroke:#000000" />
+	<polygon
+   points="102.14,49.61 92.215,43.126 94.215,40.085 "
+   id="polygon7"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:bevel" />
+	<polygon
+   points="67.12,57.539 68.28,69.026 94.697,40.245 91.175,39.604 "
+   id="polygon9"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:bevel" />
+	<polygon
+   points="46.342,69.026 10.719,29.926 47.5,57.539 "
+   id="polygon11"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:bevel" />
+	<polyline
+   fill="#B9E5FB"
+   stroke="#000000"
+   points="56.979,65.179 68.286,69.131 72.372,46.665 62.036,46.878 57.206,43.41    52.622,46.506 42.222,46.72 46.307,69.188 57.614,65.234  "
+   id="polyline13"
+   style="fill:#b9e5fb;stroke:#000000" />
+	<polyline
+   fill="none"
+   stroke="#000000"
+   stroke-width="0.5"
+   points="72.397,46.895 56.938,62.52 70.605,56.906  "
+   id="polyline15"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+	<polyline
+   fill="none"
+   stroke="#000000"
+   stroke-width="0.5"
+   points="41.974,46.895 57.432,62.52 43.766,56.906  "
+   id="polyline17"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+	<line
+   fill="none"
+   stroke="#000000"
+   stroke-dasharray="2,2,2,2"
+   x1="41.730999"
+   y1="46.59"
+   x2="72.208"
+   y2="46.59"
+   id="line19"
+   style="fill:none;stroke:#000000;stroke-dasharray:2, 2, 2, 2" />
+	<polygon
+   points="72.372,46.594 57.432,78.554 42.222,46.649 "
+   id="polygon21"
+   style="fill:#b9e5fb;stroke:#000000" />
+</g>
+</svg>

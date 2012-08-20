@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="127.56" width="127.56" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 127.559 127.56"><metadata id="metadata23"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata>
+<polygon id="polygon3" stroke-linejoin="round" stroke="#000" points="65.188,85.716,82.42,67.694,82.483,27.259,65.272,9.302,47.22,28.353,47.02,66.681" fill="#FFF"/>
+<line id="line5" y2="66.681" x1="47.02" x2="82.799" stroke="#bcbec0" y1="66.681" stroke-width="0.5" fill="none"/>
+<path id="path7" d="m64.26,96.897v7.15s-5.797-1.695-5.797,2.203c0,3.9,4.015,3.17,4.015,3.17s-4.748,1.086-4.121,4.016c0.95,4.439,5.903,0.686,5.903,0.686s-0.325,3.9,3.25,3.576c3.574-0.326,2.996-3.521,2.996-3.521s1.725,3.314,4.65,1.689c2.924-1.625-0.424-4.859-0.424-4.859s4.902-0.83,3.064-4.016c-1.584-2.746-4.438-1.162-4.438-1.162s1.316-4.322-1.584-4.543c-2.748-0.211-3.066,2.746-3.066,2.746l-0.208-7.477h4.424l-6.5-6.5-6.39,6.824h4.226z" stroke="#000" fill="#FFF"/>
+<line id="line9" y2="85.716" x1="65.272" x2="65.272" stroke="#bcbec0" y1="10.448" stroke-width="0.5" fill="none"/>
+<path id="path11" stroke-linejoin="round" d="M65.625,84.827,29.934,34.172s-6.066-6.5-1.733-22.534c0,0,12.134,1.734,19.221,15.875l18.203,57.314z" stroke="#000" fill="#b9e5fb"/>
+<line id="line13" stroke-linejoin="round" y2="29.406" x2="38.167" stroke="#000" y1="83.573" x1="64.6" fill="#b9e5fb"/>
+<path id="path15" stroke-linejoin="round" d="M63.908,84.827,99.6,34.172s6.066-6.5,1.734-22.534c0,0-12.135,1.734-19.221,15.875l-18.201,57.314z" stroke="#000" fill="#b9e5fb"/>
+<line id="line17" stroke-linejoin="round" y2="29.406" x2="91.366" stroke="#000" y1="83.573" x1="64.934" fill="#b9e5fb"/>
+</svg>

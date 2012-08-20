@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="113.386"
+   height="113.386"
+   viewBox="0 0 113.386 113.386"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata41"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs39" />
+<g
+   id="g3">
+	<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linejoin="round"
+   x1="79.194"
+   y1="59.191002"
+   x2="97.407997"
+   y2="59.191002"
+   id="line5"
+   style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:round" />
+	<path
+   d="m 101.8,56.909 c -3.074,-1.115 -5.077,-2.141 -7.549,-3.33 v 11.253 c 0.885,-0.504 4.475,-2.209 7.549,-3.324 3.3,-1.195 6.286,-2.01 8.223,-2.305 -1.937,-0.292 -4.923,-1.102 -8.223,-2.294 z"
+   inkscape:connector-curvature="0"
+   id="path7" />
+</g>
+<g
+   id="g9">
+	<path
+   d="m 40.523,10.643 c 0,0 20.83,6.892 29.534,29.021"
+   inkscape:connector-curvature="0"
+   id="path11"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+	<path
+   d="m 40.177,11.379 c 1.423,0.982 2.298,1.74 3.392,2.658 l 1.682,-4.622 c -0.532,0.053 -2.634,0.144 -4.387,0.076 -1.87,-0.072 -3.536,-0.244 -4.575,-0.455 0.95,0.448 2.372,1.292 3.888,2.343 z"
+   inkscape:connector-curvature="0"
+   id="path13" />
+</g>
+<polygon
+   points="33.983,38.495 33.983,89.043 47.38,76.451 59.334,38.33 "
+   id="polygon15"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="34.133,38.24 34.583,65.068 59.644,64.496 87.152,38.24 "
+   id="polygon17"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+<polygon
+   points="42.812,38.479 33.324,68.82 24.725,85.504 17.773,67.752 23.893,28.017 "
+   id="polygon19"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="42.812,38.479 35.361,64.352 12.049,50.989 2.825,15.547 "
+   id="polygon21"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-dasharray="4,4,4"
+   x1="52.43"
+   y1="3.71"
+   x2="24.954"
+   y2="102.506"
+   id="line23"
+   style="fill:none;stroke:#000000;stroke-dasharray:4, 4, 4" />
+<g
+   id="g25">
+	<polygon
+   points="29.438,55.464 17.36,68.08 25.134,27.901 "
+   id="polygon27"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+	
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   x1="25.080999"
+   y1="28.221001"
+   x2="12.543"
+   y2="50.737999"
+   id="line29"
+   style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+</g>
+<g
+   id="g31">
+	<polygon
+   points="43.592,59.496 47.311,76.555 61.646,38.229 "
+   id="polygon33"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+	
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   x1="61.525002"
+   y1="38.527"
+   x2="60.467999"
+   y2="64.278999"
+   id="line35"
+   style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+</g>
+</svg>

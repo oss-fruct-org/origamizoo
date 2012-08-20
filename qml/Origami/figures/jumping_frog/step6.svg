@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="155.91" width="127.56" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 127.559 155.906"><metadata id="metadata31"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata>
+<polygon id="polygon3" stroke-linejoin="round" stroke="#000" points="9.686,137.84,9.686,77.441,63.419,24.146,116.3,77.441,116.3,137.84" fill="#FFF"/>
+<polygon id="polygon5" stroke-linejoin="round" stroke="#000" points="61.084,77.441,9.686,77.441,13.805,72.34" fill="#b9e5fb"/>
+<polygon id="polygon7" stroke-linejoin="round" stroke="#000" points="65.086,77.441,116.2,77.441,112.11,72.34" fill="#b9e5fb"/>
+<polyline id="polyline9" stroke-linejoin="round" stroke="#000" stroke-linecap="round" fill="none" points="61.188,77.441,62.801,67.234,64.524,77.441"/>
+<polygon id="polygon11" stroke-linejoin="round" stroke="#000" points="63.148,21.111,116.03,74.406,9.416,74.406" fill="#b9e5fb"/>
+<line id="line13" stroke-linejoin="round" x1="63.148" y2="137.97" x2="63.148" stroke="#9d9fa2" y1="21.111" stroke-width="0.5" fill="none"/>
+<line id="line15" stroke-linejoin="round" y2="47.217" x2="37.182" stroke="#000" stroke-dasharray="4, 4, 4" y1="73.547" x1="62.952" fill="none"/>
+<line id="line17" stroke-linejoin="round" y2="47.217" x2="88.721" stroke="#000" stroke-dasharray="4, 4, 4" y1="73.547" x1="62.952" fill="none"/>
+<path id="path19" d="m57.012,37.674s-11.229,25.68-41.499,34.396" stroke="#000" stroke-width="0.5" fill="none"/>
+<path id="path21" d="m57.212,35.36c-0.925,1.086-1.626,1.746-2.471,2.571l3.816,1.668c-0.014-0.435,0.043-2.143,0.213-3.558,0.179-1.513,0.434-2.849,0.681-3.678-0.444,0.742-1.251,1.837-2.239,2.997z"/>
+<path id="path23" d="m68.655,37.674s11.23,25.68,41.5,34.396" stroke="#000" stroke-width="0.5" fill="none"/>
+<path id="path25" d="m68.456,35.36c0.926,1.086,1.627,1.746,2.471,2.571l-3.817,1.669c0.016-0.435-0.043-2.143-0.213-3.558-0.178-1.513-0.432-2.849-0.68-3.678,0.444,0.741,1.25,1.836,2.239,2.996z"/>
+</svg>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="127.559"
+   height="113.386"
+   viewBox="0 0 127.559 113.386"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"
+   inkscape:version="0.48.3.1 r"
+   sodipodi:docname="icon.svg"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1024"
+   inkscape:window-height="691"
+   id="namedview14"
+   showgrid="false"
+   inkscape:zoom="2.0813857"
+   inkscape:cx="63.779499"
+   inkscape:cy="56.693001"
+   inkscape:window-x="0"
+   inkscape:window-y="24"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" /><metadata
+   id="metadata25"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs23" />
+<polygon
+   points="115.738,65.122 97.582,82.711 116.588,81.293 97.865,53.49 86.233,57.746 "
+   id="polygon3"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="97.013,82.711 115.738,65.122 82.829,66.824 "
+   id="polygon5"
+   style="fill:#44c8f5;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="8.785,81.293 39.708,66.825 32.897,38.854 "
+   id="polygon7"
+   style="fill:#44c8f5;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="13.891,84.98 62.12,80.441 41.951,65.122 "
+   id="polygon9"
+   style="fill:#44c8f5;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="14.174,60.016 63.538,80.158 115.738,65.122 82.261,29.093 32.615,38.171 "
+   id="polygon11"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<path
+   d="m 39.056,64.987 c -1.634,0.092 -3.006,-0.743 -3.067,-1.864 -0.062,-1.118 1.213,-2.099 2.845,-2.187 1.633,-0.09 3.005,0.745 3.066,1.864 0.06,1.121 -1.213,2.099 -2.844,2.187 z"
+   inkscape:connector-curvature="0"
+   id="path13"
+   style="fill:none;stroke:#000000" />
+<ellipse
+   cx="38.070999"
+   cy="62.931"
+   rx="1.7920001"
+   ry="2.0899999"
+   transform="matrix(0.0545,0.9985,-0.9985,0.0545,98.8329,21.4865)"
+   id="ellipse15" />
+<ellipse
+   cx="29.636999"
+   cy="50.16"
+   rx="1.9450001"
+   ry="2.839"
+   transform="matrix(0.1863,0.9825,-0.9825,0.1863,73.3994,11.6988)"
+   id="ellipse17"
+   style="fill:none;stroke:#000000" />
+<ellipse
+   cx="28.802999"
+   cy="50.241001"
+   rx="1.717"
+   ry="2.003"
+   transform="matrix(0.1863,0.9825,-0.9825,0.1863,72.7994,12.5841)"
+   id="ellipse19" />
+</svg>

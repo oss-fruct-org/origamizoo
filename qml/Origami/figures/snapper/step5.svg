@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="127.559"
+   height="127.56"
+   viewBox="0 0 127.559 127.56"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" />
+<polygon
+   points="110.767,76.321 10.527,76.321 60.649,26.201 "
+   id="polygon3"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:bevel" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="0.5"
+   x1="60.648998"
+   y1="27.440001"
+   x2="60.648998"
+   y2="58.909"
+   id="line5"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+<rect
+   width="100.237"
+   height="17.412001"
+   x="10.527"
+   y="58.909"
+   id="rect7"
+   style="fill:#b9e5fb;stroke:#000000" />
+<path
+   d="m 39.511,93.729 c 1.396,-0.93 2.407,-1.444 3.629,-2.101 l -3.77,-3.129 c -0.127,0.49 -0.748,2.405 -1.403,3.947 -0.692,1.652 -1.416,3.077 -1.966,3.937 0.745,-0.694 2.009,-1.666 3.51,-2.654"
+   inkscape:connector-curvature="0"
+   id="path9" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="0.5"
+   x1="39.971001"
+   y1="91.861"
+   x2="59.544998"
+   y2="68.710999"
+   id="line11"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+<path
+   d="m 98.275,20.06 c -1.398,0.93 -2.408,1.443 -3.631,2.1 l 3.771,3.129 c 0.126,-0.488 0.75,-2.405 1.402,-3.947 0.692,-1.65 1.42,-3.077 1.969,-3.936 -0.746,0.693 -2.011,1.665 -3.511,2.654"
+   inkscape:connector-curvature="0"
+   id="path13" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="0.5"
+   x1="97.813004"
+   y1="21.927"
+   x2="78.238998"
+   y2="45.077"
+   id="line15"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+<line
+   fill="none"
+   stroke="#BCBEC0"
+   stroke-width="0.6392"
+   x1="60.648998"
+   y1="59.910999"
+   x2="60.648998"
+   y2="75.657997"
+   id="line17"
+   style="fill:none;stroke:#bcbec0;stroke-width:0.63919997" />
+</svg>

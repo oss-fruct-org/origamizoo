@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="127.559"
+   height="127.56"
+   viewBox="0 0 127.559 127.56"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" />
+<g
+   id="g3">
+	<polygon
+   points="52.372,112.54 99.972,62.756 52.481,13.205 29.014,37.969 28.751,87.798 "
+   id="polygon5"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:round" />
+	<polygon
+   points="99.972,62.756 52.372,112.54 52.481,13.205 "
+   id="polygon7"
+   style="fill:#ffffff;stroke:#000000;stroke-linejoin:round" />
+	<g
+   id="g9">
+		<path
+   d="m 62.278,60.352 c 0,0 16.379,-6.573 30.462,3.566"
+   inkscape:connector-curvature="0"
+   id="path11"
+   style="fill:none;stroke:#000000;stroke-width:0.5" />
+		<path
+   d="m 59.448,61.734 c 1.905,0.318 3.165,0.675 4.71,1.084 l -0.716,-5.605 c -0.498,0.319 -2.524,1.443 -4.287,2.232 -1.886,0.845 -3.616,1.479 -4.753,1.771 1.171,0 3.006,0.175 5.046,0.518 z"
+   inkscape:connector-curvature="0"
+   id="path13" />
+	</g>
+	<line
+   fill="none"
+   stroke="#000000"
+   stroke-dasharray="4,4,4"
+   x1="75.223999"
+   y1="37.494999"
+   x2="75.223999"
+   y2="87.543999"
+   id="line15"
+   style="fill:none;stroke:#000000;stroke-dasharray:4, 4, 4" />
+</g>
+</svg>

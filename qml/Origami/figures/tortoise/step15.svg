@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="113.386"
+   height="113.386"
+   viewBox="0 0 113.386 113.386"
+   id="Layer_1"
+   xml:space="preserve"
+   style="overflow:inherit"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" />
+<polygon
+   points="72.275,75.799 53.836,89.379 60.059,73.603 "
+   id="polygon3"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="72.466,75.822 68.942,69.141 55.5,73.135 "
+   id="polygon5"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="3.748,53.217 20.537,52.917 22.856,49.503 16.465,46.562 "
+   id="polygon7"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="52.05,23.42 52.512,30.432 47.619,29.608 "
+   id="polygon9"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="108.197,51.815 90.109,55.654 86.105,54.696 88.207,50.009 "
+   id="polygon11"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="89.469,66.368 74.596,67.086 86.217,54.06 86.434,54.696 "
+   id="polygon13"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<polygon
+   points="16.058,49.964 55.5,73.135 75.033,69.634 89.616,53.617 88.903,39.806 48.247,27.691 21.267,29.958 "
+   id="polygon15"
+   style="fill:#b9e5fb;stroke:#000000;stroke-linejoin:round" />
+<line
+   fill="#B9E5FB"
+   stroke="#BCBEC0"
+   stroke-width="0.5"
+   stroke-linejoin="round"
+   x1="21.267"
+   y1="29.958"
+   x2="82.808998"
+   y2="59.806999"
+   id="line17"
+   style="fill:#b9e5fb;stroke:#bcbec0;stroke-width:0.5;stroke-linejoin:round" />
+</svg>
