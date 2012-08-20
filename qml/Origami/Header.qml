@@ -9,6 +9,7 @@ Rectangle {
     color: "#4791d6"
 
     property string title: ""
+    property bool isSubtitle: true
 
     Text {
         id: titleText
@@ -24,5 +25,19 @@ Rectangle {
         font.weight: Font.Normal
         color: "white"
         smooth: true
+    }
+
+    Text {
+        id: freeText
+        anchors.left: titleText.right
+        anchors.bottom: titleText.bottom
+        anchors.leftMargin: 12
+        text: "free"
+        font.family: origamiFont.name
+        font.pixelSize: 52
+        font.weight: Font.Normal
+        color: "#f83f24"
+        smooth: true
+        visible: isSubtitle
     }
 }

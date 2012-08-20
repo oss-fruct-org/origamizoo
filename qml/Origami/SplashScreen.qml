@@ -6,7 +6,7 @@ Item {
     anchors.fill: parent
 
     // image source is kept as an property alias, so that it can be set from outside
-    property string imageSource: "qrc:/qml/Origami/pic/splash_landscape.jpg"
+    property string imageSource: "qrc:/qml/Origami/pic/splash_landscape.png"
 
     // signal emits when splashscreen animation completes
     signal splashScreenCompleted()

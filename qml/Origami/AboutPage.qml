@@ -25,10 +25,10 @@ Item {
 
             Text {
                 font.family: origamiFont.name
-                font.pixelSize: 84
+                font.pixelSize: 70
                 wrapMode: Text.Wrap
                 width: parent.width
-                text: "Origami Zoo"
+                text: "Origami Zoo Free"
                 horizontalAlignment: Text.AlignHCenter
                 color: UI.COLOR_FOREGROUND
             }

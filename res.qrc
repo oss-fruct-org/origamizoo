@@ -2,9 +2,9 @@
     <qresource prefix="/">
         <file>qml/Origami/font/font.ttf</file>
         <file>qml/Origami/pic/star.svg</file>
-        <file>qml/Origami/pic/splash.png</file>
         <file>qml/Origami/pic/splash_landscape.png</file>
         <file>qml/Origami/pic/paper.jpg</file>
         <file>qml/Origami/pic/about_icon.png</file>
+        <file>qml/Origami/pic/splash.png</file>
     </qresource>
 </RCC>

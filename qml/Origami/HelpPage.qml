@@ -18,6 +18,7 @@ Item {
         anchors.top: parent.top
         title: "Symbols"
         z: 2
+        isSubtitle: false
     }
 
     Flickable {

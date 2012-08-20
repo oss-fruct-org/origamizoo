@@ -1,4 +1,4 @@
-TARGET = Origami-Zoo
+TARGET = Origami-Zoo-free
 TEMPLATE = app
 
 # Additional import path used to resolve QML modules in Creator's code model
@@ -17,7 +17,8 @@ HEADERS += qmlapplicationviewer/qmlapplicationviewer.h
 
 OTHER_FILES = \
     qml/Origami/*.js \
-    qml/Origami/*.qml
+    qml/Origami/*.qml \
+    qml/Origami/FullBanner.qml
 
 unix {
     #VARIABLES
@@ -27,6 +28,7 @@ unix {
 }
 message(prefix is $$PREFIX)
 
+# integrate inneractiveAdQML
 include(component/component.pri)
 
 # prefix for search shared files

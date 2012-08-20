@@ -1,98 +1,116 @@
 <figures>
     <figure>
-        <name>Bird</name>
-        <folder>bird</folder>
-        <level>3</level>
-        <steps>11</steps>
-    </figure>
-    <figure>
         <name>Butterfly</name>
+        <price>0</price>
         <folder>butterfly</folder>
         <level>2</level>
         <steps>15</steps>
     </figure>
     <figure>
         <name>Crane</name>
+        <price>0</price>
         <folder>crane</folder>
         <level>2</level>
         <steps>12</steps>
     </figure>
     <figure>
-        <name>Dragon Head</name>
-        <folder>dragon_head</folder>
-        <level>2</level>
-        <steps>9</steps>
-    </figure>
-    <figure>
-        <name>Flapping Bird</name>
-        <folder>flapping_bird</folder>
-        <level>2</level>
-        <steps>11</steps>
-    </figure>
-    <figure>
-        <name>Horse</name>
-        <folder>horse</folder>
-        <level>2</level>
-        <steps>11</steps>
-    </figure>
-    <figure>
-        <name>Jumping Frog</name>
-        <folder>jumping_frog</folder>
-        <level>2</level>
-        <steps>9</steps>
-    </figure>
-    <figure>
         <name>Ladybug</name>
+        <price>0</price>
         <folder>ladybug</folder>
-        <level>0</level>
+        <level>1</level>
         <steps>6</steps>
     </figure>
     <figure>
-        <name>Owl</name>
-        <folder>owl</folder>
-        <level>3</level>
-        <steps>18</steps>
-    </figure>
-    <figure>
-        <name>Pelican</name>
-        <folder>pelican</folder>
-        <level>2</level>
-        <steps>9</steps>
-    </figure>
-    <figure>
-        <name>Puffy Bunny</name>
-        <folder>puffy_bunny</folder>
-        <level>3</level>
-        <steps>18</steps>
-    </figure>
-    <figure>
-        <name>Sitting Dog</name>
-        <folder>sitting_dog</folder>
-        <level>3</level>
-        <steps>12</steps>
-    </figure>
-    <figure>
         <name>Snapper</name>
+        <price>0</price>
         <folder>snapper</folder>
         <level>2</level>
         <steps>11</steps>
     </figure>
     <figure>
         <name>Talking Dog</name>
+        <price>0</price>
         <folder>talking_dog</folder>
         <level>1</level>
         <steps>7</steps>
     </figure>
     <figure>
-        <name>Tortoise</name>
-        <folder>tortoise</folder>
-        <level>2</level>
-        <steps>10</steps>
-    </figure>
-    <figure>
         <name>Twirling Bird</name>
+        <price>0</price>
         <folder>twirling_bird</folder>
         <level>1</level>
         <steps>8</steps>
     </figure>
+    <figure>
+        <name>Bird</name>
+        <price>1</price>
+        <folder>bird</folder>
+        <level>3</level>
+        <steps>11</steps>
+    </figure>
+    <figure>
+        <name>Dragon Head</name>
+        <price>1</price>
+        <folder>dragon_head</folder>
+        <level>2</level>
+        <steps>9</steps>
+    </figure>
+    <figure>
+        <name>Flapping Bird</name>
+        <price>1</price>
+        <folder>flapping_bird</folder>
+        <level>2</level>
+        <steps>11</steps>
+    </figure>
+    <figure>
+        <name>Horse</name>
+        <price>1</price>
+        <folder>horse</folder>
+        <level>2</level>
+        <steps>11</steps>
+    </figure>
+    <figure>
+        <name>Jumping Frog</name>
+        <price>1</price>
+        <folder>jumping_frog</folder>
+        <level>2</level>
+        <steps>9</steps>
+    </figure>
+    <figure>
+        <name>Owl</name>
+        <price>1</price>
+        <folder>owl</folder>
+        <level>3</level>
+        <steps>18</steps>
+    </figure>
+    <figure>
+        <name>Pelican</name>
+        <price>1</price>
+        <folder>pelican</folder>
+        <level>2</level>
+        <steps>9</steps>
+    </figure>
+    <figure>
+        <name>Puffy Bunny</name>
+        <price>1</price>
+        <folder>puffy_bunny</folder>
+        <level>3</level>
+        <steps>18</steps>
+    </figure>
+    <figure>
+        <name>Sitting Dog</name>
+        <price>1</price>
+        <folder>sitting_dog</folder>
+        <level>3</level>
+        <steps>12</steps>
+    </figure>
+
+    <figure>
+        <name>Tortoise</name>
+        <price>1</price>
+        <folder>tortoise</folder>
+        <level>2</level>
+        <steps>10</steps>
+    </figure>
+
 </figures>

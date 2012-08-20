@@ -9,12 +9,12 @@
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
 
-APPNAME := Origami-Zoo
+APPNAME := Origami-Zoo-free
 builddir:
 	mkdir -p builddir
 
 builddir/Makefile: builddir
-	cd builddir && qmake-qt4 PREFIX=/opt/Origami-Zoo SOURCE=/opt/Origami-Zoo ../*.pro
+	cd builddir && qmake-qt4 PREFIX=/opt/Origami-Zoo-free SOURCE=/opt/Origami-Zoo-free ../*.pro
 
 build: build-stamp
 

@@ -7,6 +7,7 @@ Item {
     id: delegate
     width: ListView.view.width
     height: 107
+    opacity: (price === '1') ? 0.6 : 1
 
     signal delegateClicked
 
