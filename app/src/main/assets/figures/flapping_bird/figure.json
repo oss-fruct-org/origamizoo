@@ -1,0 +1,127 @@
+[
+      {
+        "number": "1",
+        "image": "step1.png",
+        "text": "Start with a square piece of paper, coloured side up. Fold in half twice as shown to create these creases.",
+        "text-ru": "Положите квадратный лист бумаги цветной стороной вверх. Согните пополам дважды, чтобы получить указанные линии сгиба."
+      },
+      {
+        "number": "2",
+        "image": "step2.png",
+        "text": "Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction.",
+        "text-ru": "Переверните лист. Согните пополам, хоршо прогладьте и повторите для другого направления."
+      },
+      {
+        "number": "3",
+        "image": "step3.png",
+        "text": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.",
+        "text-ru": "Используя полученные сгибы, совместите верхние три уголка с низом фигуры. Прогладьте."
+      },
+      {
+        "number": "3",
+        "image": "step4.png",
+        "text": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.",
+        "text-ru": "Используя полученные сгибы, совместите верхние три уголка с низом фигуры. Прогладьте."
+      },
+      {
+        "number": "3",
+        "image": "step5.png",
+        "text": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.",
+        "text-ru": "Используя полученные сгибы, совместите верхние три уголка с низом фигуры. Прогладьте."
+      },
+      {
+        "number": "4",
+        "image": "step6.png",
+        "text": "Fold top triangular flaps into the centre and unfold.",
+        "text-ru": "Согните верхние треугольные карманы к центру. Разогните обратно."
+      },
+      {
+        "number": "5",
+        "image": "step7.png",
+        "text": "Fold top of model downwards, crease well and unfold.",
+        "text-ru": "Согните верх фигуры вниз, хорошо прогладьте и разогните."
+      },
+      {
+        "number": "6",
+        "image": "step8.png",
+        "text": "Open the uppermost flap of the model, bringing it upwards and pressing the sides of the model inwards at the same time. Flatten down, creasing well.",
+    "text-ru": "Откройте самый верхний клапан, переместя вверх. Одновременно проглаживайте боковые части. Прогладьте."
+      },
+      {
+        "number": "6",
+        "image": "step9.png",
+        "text": "Open the uppermost flap of the model, bringing it upwards and pressing the sides of the model inwards at the same time. Flatten down, creasing well.",
+    "text-ru": "Откройте самый верхний клапан, переместя вверх. Одновременно проглаживайте боковые части. Прогладьте."
+      },
+      {
+        "number": "6",
+        "image": "step10.png",
+        "text": "Open the uppermost flap of the model, bringing it upwards and pressing the sides of the model inwards at the same time. Flatten down, creasing well.",
+    "text-ru": "Откройте самый верхний клапан, переместя вверх. Одновременно проглаживайте боковые части. Прогладьте."
+      },
+      {
+        "number": "7",
+        "image": "step11.png",
+        "text": "Turn model over and repeat Steps 4-6 on the other side.",
+        "text-ru": "Переверните фигуру и повторите шаги 4-6 для другой стороны."
+      },
+      {
+        "number": "7",
+        "image": "step12.png",
+        "text": "Turn model over and repeat Steps 4-6 on the other side.",
+        "text-ru": "Переверните фигуру и повторите шаги 4-6 для другой стороны."
+      },
+      {
+        "number": "8",
+        "image": "step13.png",
+        "text": "Fold “legs” upward along the outside edges, then open again.",
+        "text-ru": "Согните лапки вверх от внешних краев и откройте снова."
+      },
+      {
+        "number": "8",
+        "image": "step14.png",
+        "text": "Fold “legs” upward along the outside edges, then open again.",
+        "text-ru": "Согните лапки вверх от внешних краев и откройте снова."
+      },
+      {
+        "number": "8",
+        "image": "step15.png",
+        "text": "Fold “legs” upward along the outside edges, then open again.",
+        "text-ru": "Согните лапки вверх от внешних краев и откройте снова."
+      },
+      {
+        "number": "9",
+        "image": "step16.png",
+        "text": "Use the creases just made to inside reverse fold these parts.",
+        "text-ru": "Используйте сделанные линии сгиба внутри этих частей."
+      },
+      {
+        "number": "9",
+        "image": "step17.png",
+        "text": "Use the creases just made to inside reverse fold these parts.",
+        "text-ru": "Используйте сделанные линии сгиба внутри этих частей."
+      },
+      {
+        "number": "10",
+        "image": "step18.png",
+        "text": "Inside reverse fold the head, and fold down the wings as shown. Then partially open them up again.",
+        "text-ru": "Согните голову и лапки, как показано. Затем частично отогните обратно."
+      },
+      {
+        "number": "10",
+        "image": "step19.png",
+        "text": "Inside reverse fold the head, and fold down the wings as shown. Then partially open them up again.",
+        "text-ru": "Согните голову и лапки, как показано. Затем частично отогните обратно."
+      },
+      {
+        "number": "11",
+        "image": "step20.png",
+        "text": " To make the wings flap forward, pull the tail.",
+        "text-ru": "Для того, чтобы крылья двигались, потяните за хвост."
+      },
+      {
+        "number": "Final",
+        "image": "icon.png",
+        "text": "Finished Flapping Bird!"
+      }
+    ]

@@ -1,0 +1,85 @@
+[
+      {
+        "number": "1",
+        "image": "step1.png",
+        "text": "Start with your paper white side up. Fold in half, as shown.",
+        "text-ru": "Положите лист белой стороной наверх. Согните, как показано на рисунке."
+      },
+      {
+        "number": "2",
+        "image": "step2.png",
+        "text": "Fold the outside corners into the centre line, and crease well.",
+        "text-ru": "Согните уголки внутрь и хорошо прогладьте."
+      },
+      {
+        "number": "3",
+        "image": "step3.png",
+        "text": "Fold the top triangle backwards.",
+        "text-ru": "Согните верхний треугольник вниз."
+      },
+      {
+        "number": "4",
+        "image": "step4.png",
+        "text": "Fold the corners of the model in toward the centre, crease well, then open again.",
+        "text-ru": "Согните уголки к центру. Хорошо прогладьте. Откройте их обратно."
+      },
+      {
+        "number": "5",
+        "image": "step5.png",
+        "text": "Bring the highlighted corner up and outward using the crease shown. Then bring the highlighted corner back down toward the centre line and flatten.",
+        "text-ru": "Вытягивайте выделенный угол вверх и наружу, используя показанные места сгиба. Затем доведите угол обратно вниз к центру и прогладьте."
+      },
+      {
+        "number": "5",
+        "image": "step6.png",
+        "text": "Bring the highlighted corner up and outward using the crease shown. Then bring the highlighted corner back down toward the centre line and flatten.",
+        "text-ru": "Вытягивайте выделенный угол вверх и наружу, используя показанные места сгиба. Затем доведите угол обратно вниз к центру и прогладьте."
+      },
+      {
+        "number": "5",
+        "image": "step7.png",
+        "text": "Bring the highlighted corner up and outward using the crease shown. Then bring the highlighted corner back down toward the centre line and flatten.",
+        "text-ru": "Вытягивайте выделенный угол вверх и наружу, используя показанные места сгиба. Затем доведите угол обратно вниз к центру и прогладьте."
+      },
+      {
+        "number": "6",
+        "image": "step8.png",
+        "text": "Repeat this step on the opposite corner... the model should now look like this.",
+        "text-ru": "Повторите этот шаг для другого уголка. Должно получиться так."
+      },
+      {
+        "number": "7",
+        "image": "step9.png",
+        "text": "Fold the outermost corners backwards on the angle shown and crease well.",
+        "text-ru": "Сложите края уголков назад на угол, показанный на рисунке."
+      },
+      {
+        "number": "8",
+        "image": "step10.png",
+        "text": "Mountain fold the model in half. (Fold backwards)",
+        "text-ru": "Сложите наружу пополам."
+
+      },
+      {
+        "number": "9",
+        "image": "step11.png",
+        "text": "Rotate the model slightly so you can see the bird forming.",
+        "text-ru": "Слегка поверните модель и вы увидите, что птица формируется."
+      },
+      {
+        "number": "10",
+        "image": "step12.png",
+        "text": "Make these creases and unfold.",
+        "text-ru": "Согните и разогните, как показано на рисунке."
+      },
+      {
+        "number": "11",
+        "image": "step13.png",
+        "text": "Using these creases, inside reverse fold to make the head and the tail of the bird. If you have folded the feet at the correct angle (in step 7), the model should stand up. You can refold the feet if you need to.",
+        "text-ru": "Используя эти сгибы, сделайте голову и хвост птицы. Если ранее вы согнули лапки верно, то фигура должна получиться. В противном случае, вы можете переделать лапки заново."
+      },
+      {
+        "number": "Final",
+        "image": "step13.png"
+      }
+    ]

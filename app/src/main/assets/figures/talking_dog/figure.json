@@ -1,0 +1,49 @@
+[
+      {
+        "number": "1",
+        "image": "step1.png",
+        "text": "Start with your paper white side up. Fold in half then open.",
+        "text-ru": "Положите лист бумаги белой стороной вверх. Согните по диагонали. Разогните."
+      },
+      {
+        "number": "2",
+        "image": "step2.png",
+        "text": "Fold the top corner down to the bottom corner.",
+        "text-ru": "Согните по другой диагонали. "
+      },
+      {
+        "number": "3",
+        "image": "step3.png",
+        "text": "Fold the two top corners down to the points shown.",
+        "text-ru": "Согните два верхних уголка к показанным точкам."
+      },
+      {
+        "number": "4",
+        "image": "step4.png",
+        "text": "Fold the uppermost layer of the bottom corner up a little way.",
+        "text-ru": "Загните верхний слой нижнего угла."
+      },
+      {
+        "number": "5",
+        "image": "step5.png",
+        "text": "Fold this layer up again, from the top of the triangle as shown.",
+        "text-ru": "Еще раз согните этот слой вверх, как показано на рисунке."
+      },
+      {
+        "number": "6",
+        "image": "step6.png",
+        "text": "Add eyes and a nose to the dog’s face. If you like you can even add a tongue!",
+        "text-ru": "Добавьте глаза и нос. Если хотите, можно добавить и язык."
+      },
+      {
+        "number": "7",
+        "image": "step7.png",
+        "text": "To make your dog talk, hold the model by the ears and move back and forwards shown by the arrows.",
+        "text-ru": "Для того, чтобы собака заговорила, держите фигуру за уши и потяните от центра и обратно."
+      },
+      {
+        "number": "Final",
+        "image": "icon.png",
+        "text": "Finished Talking Dog!"
+      }
+    ]

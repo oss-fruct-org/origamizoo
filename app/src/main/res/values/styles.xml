@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2011 The Android Open Source Project
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+	<style name="Theme.Origamizoo" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+		<item name="actionBarItemBackground">@drawable/selectable_background_origamizoo</item>
+		<item name="popupMenuStyle">@style/PopupMenu.Origamizoo</item>
+		<item name="dropDownListViewStyle">@style/DropDownListView.Origamizoo</item>
+		<item name="actionBarTabStyle">@style/ActionBarTabStyle.Origamizoo</item>
+		<item name="actionDropDownStyle">@style/DropDownNav.Origamizoo</item>
+		<item name="actionBarStyle">@style/ActionBar.Solid.Origamizoo</item>
+		<item name="actionModeBackground">@drawable/cab_background_top_origamizoo</item>
+		<item name="actionModeSplitBackground">@drawable/cab_background_bottom_origamizoo</item>
+		<item name="actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Origamizoo</item>
+
+		<!-- Light.DarkActionBar specific -->
+		<item name="actionBarWidgetTheme">@style/Theme.Origamizoo.Widget</item>
+
+	</style>
+
+	<style name="ActionBar.Solid.Origamizoo" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+		<item name="background">@drawable/ab_solid_origamizoo</item>
+		<item name="backgroundStacked">@drawable/ab_stacked_solid_origamizoo</item>
+		<item name="backgroundSplit">@drawable/ab_bottom_solid_origamizoo</item>
+		<item name="progressBarStyle">@style/ProgressBar.Origamizoo</item>
+	</style>
+
+	<style name="ActionBar.Transparent.Origamizoo" parent="@style/Widget.AppCompat.ActionBar">
+		<item name="background">@drawable/ab_transparent_origamizoo</item>
+		<item name="progressBarStyle">@style/ProgressBar.Origamizoo</item>
+	</style>
+
+	<style name="PopupMenu.Origamizoo" parent="@style/Widget.AppCompat.PopupMenu">
+		<item name="android:popupBackground">@drawable/menu_dropdown_panel_origamizoo</item>
+	</style>
+
+	<style name="DropDownListView.Origamizoo" parent="@style/Widget.AppCompat.ListView.DropDown">
+		<item name="android:listSelector">@drawable/selectable_background_origamizoo</item>
+	</style>
+
+	<style name="ActionBarTabStyle.Origamizoo" parent="@style/Widget.AppCompat.ActionBar.TabView">
+		<item name="android:background">@drawable/tab_indicator_ab_origamizoo</item>
+	</style>
+
+	<style name="DropDownNav.Origamizoo" parent="@style/Widget.AppCompat.Spinner.DropDown.ActionBar">
+		<item name="android:background">@drawable/spinner_background_ab_origamizoo</item>
+		<item name="android:popupBackground">@drawable/menu_dropdown_panel_origamizoo</item>
+		<item name="android:dropDownSelector">@drawable/selectable_background_origamizoo</item>
+	</style>
+
+	<style name="ProgressBar.Origamizoo" parent="@style/Widget.AppCompat.ProgressBar.Horizontal">
+		<item name="android:progressDrawable">@drawable/progress_horizontal_origamizoo</item>
+	</style>
+
+	<style name="ActionButton.CloseMode.Origamizoo" parent="@style/Widget.AppCompat.ActionButton.CloseMode">
+		<item name="android:background">@drawable/btn_cab_done_origamizoo</item>
+	</style>
+
+	<!-- this style is only referenced in a Light.DarkActionBar based theme -->
+	<style name="Theme.Origamizoo.Widget" parent="@style/Theme.AppCompat">
+		<item name="popupMenuStyle">@style/PopupMenu.Origamizoo</item>
+		<item name="dropDownListViewStyle">@style/DropDownListView.Origamizoo</item>
+	</style>
+
+
+	<style name="AboutText">
+		<item name="android:textSize">18sp</item>
+		<item name="android:gravity">center_horizontal</item>
+		<item name="android:layout_marginTop">15dp</item>
+		<item name="android:layout_marginBottom">15dp</item>
+
+	</style>
+
+
+
+
+
+
+
+	<!-- Elements -->
+	<!-- Generated with http://android-holo-colors.com -->
+		<!--<style name="ButtonOrigamiZoo" parent="android:Widget.Button">
+			<item name="android:background">@drawable/origamizoo_btn_default_holo_light</item>
+			<item name="android:minHeight">48dip</item>
+			<item name="android:minWidth">64dip</item>
+			<item name="android:textColor">#000000</item>
+		</style>
+
+		<style name="ImageButtonOrigamiZoo" parent="android:Widget.ImageButton">
+			<item name="android:background">@drawable/origamizoo_btn_default_holo_light</item>
+		</style>
+
+		<style name="ListViewOrigamiZoo" parent="android:Widget.ListView">
+			<item name="android:listSelector">@drawable/origamizoo_list_selector_holo_light</item>
+		</style>
+
+		<style name="ListViewOrigamiZoo.White" parent="android:Widget.ListView.White">
+			<item name="android:listSelector">@drawable/origamizoo_list_selector_holo_light</item>
+		</style>
+
+		<style name="SpinnerItemOrigamiZoo" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+			<item name="android:textColor">#000000</item>
+		</style>-->
+
+
+</resources>

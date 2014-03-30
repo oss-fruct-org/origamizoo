@@ -1,0 +1,130 @@
+[
+      {
+        "name": "Butterfly",
+        "name-ru": "Бабочка",
+        "price": "0",
+        "folder": "butterfly",
+        "level": "2",
+        "steps": "15"
+      },
+      {
+        "name": "Crane",
+        "name-ru": "Журавлик",
+        "price": "0",
+        "folder": "crane",
+        "level": "2",
+        "steps": "12"
+      },
+      {
+        "name": "Ladybug",
+        "name-ru": "Божья коровка",
+        "price": "0",
+        "folder": "ladybug",
+        "level": "1",
+        "steps": "6"
+      },
+      {
+        "name": "Snapper",
+        "name-ru": "Рыба",
+        "price": "0",
+        "folder": "snapper",
+        "level": "2",
+        "steps": "11"
+      },
+      {
+        "name": "Talking Dog",
+        "name-ru": "Говорящая собака",
+        "price": "0",
+        "folder": "talking_dog",
+        "level": "1",
+        "steps": "7"
+      },
+      {
+        "name": "Twirling Bird",
+        "name-ru": "Кружащая птица",
+        "price": "0",
+        "folder": "twirling_bird",
+        "level": "1",
+        "steps": "8"
+      },
+      {
+        "name": "Bird",
+        "name-ru": "Птица",
+        "price": "1",
+        "folder": "bird",
+        "level": "3",
+        "steps": "11"
+      },
+      {
+        "name": "Dragon Head",
+        "name-ru": "Голова дракона",
+        "price": "1",
+        "folder": "dragon_head",
+        "level": "2",
+        "steps": "9"
+      },
+      {
+        "name": "Flapping Bird",
+        "name-ru": "Машущая птица",
+        "price": "1",
+        "folder": "flapping_bird",
+        "level": "2",
+        "steps": "11"
+      },
+      {
+        "name": "Horse",
+        "name-ru": "Лошадь",
+        "price": "1",
+        "folder": "horse",
+        "level": "2",
+        "steps": "11"
+      },
+      {
+        "name": "Jumping Frog",
+        "name-ru": "Прыгающая лягушка",
+        "price": "1",
+        "folder": "jumping_frog",
+        "level": "2",
+        "steps": "9"
+      },
+      {
+        "name": "Owl",
+        "name-ru": "Сова",
+        "price": "1",
+        "folder": "owl",
+        "level": "3",
+        "steps": "18"
+      },
+      {
+        "name": "Pelican",
+        "name-ru": "Пеликан",
+        "price": "1",
+        "folder": "pelican",
+        "level": "2",
+        "steps": "9"
+      },
+      {
+        "name": "Puffy Bunny",
+        "name-ru": "Воздушный заяц",
+        "price": "1",
+        "folder": "puffy_bunny",
+        "level": "3",
+        "steps": "18"
+      },
+      {
+        "name": "Sitting Dog",
+        "name-ru": "Сидящая собака",
+        "price": "1",
+        "folder": "sitting_dog",
+        "level": "3",
+        "steps": "12"
+      },
+      {
+        "name": "Tortoise",
+        "name-ru": "Черепаха",
+        "price": "1",
+        "folder": "tortoise",
+        "level": "2",
+        "steps": "10"
+      }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="global_blue">#ff4292d6</color>
+	<color name="hint_backrground">#BB000000</color>
+	<color name="white">#ffffffff</color>
+</resources>

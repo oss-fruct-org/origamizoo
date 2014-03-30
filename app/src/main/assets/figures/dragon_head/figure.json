@@ -1,0 +1,103 @@
+[
+      {
+        "number": "1",
+        "image": "step1.png",
+        "text": "Start with a square piece of paper, coloured side up. Fold in half in 2 directions.",
+        "text-ru": "Положите квадратный лист бумаги цветной стороной вверх. Согните пополам в двух направлениях."
+      },
+      {
+        "number": "2",
+        "image": "step2.png",
+        "text": "Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction.",
+        "text-ru": "Переверните лист. Согните пополам, хоршо прогладьте и повторите для другого направления."
+      },
+      {
+        "number": "3",
+        "image": "step3.png",
+        "text": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.",
+        "text-ru": "Используя полученные сгибы, совместите верхние три уголка с низом фигуры. Прогладьте."
+      },
+      {
+        "number": "3",
+        "image": "step4.png",
+        "text": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.",
+        "text-ru": "Используя полученные сгибы, совместите верхние три уголка с низом фигуры. Прогладьте."
+      },      
+      {
+        "number": "3",
+        "image": "step5.png",
+        "text": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.",
+        "text-ru": "Используя полученные сгибы, совместите верхние три уголка с низом фигуры. Прогладьте."      
+      },
+      {
+        "number": "4",
+        "image": "step6.png",
+        "text": "Fold the bottom corner upwards to the top corner.",
+        "text-ru": "Загните нижний уголок к верхнему уголку."
+      },
+      {
+        "number": "5",
+        "image": "step7.png",
+        "text": "Fold the uppermost outer corners toward the centre line.",
+        "text-ru": "Согните внешние углы к центральной линии."
+      },
+      {
+        "number": "6",
+        "image": "step8.png",
+        "text": "Now Fold the top corner down.",
+        "text-ru": "Теперь загните верхний уголок вниз."
+      },
+      {
+        "number": "6",
+        "image": "step9.png",
+        "text": "Now Fold the top corner down.",
+        "text-ru": "Теперь загните верхний уголок вниз."
+      },
+      {
+        "number": "7",
+        "image": "step10.png",
+        "text": "Turn model over and repeat steps 4-6 on the other side.",
+        "text-ru": "Переверните фигуру и повторите шаги 4-6 для другой стороны."
+      },
+      {
+        "number": "7",
+        "image": "step11.png",
+        "text": "Turn model over and repeat steps 4-6 on the other side.",
+        "text-ru": "Переверните фигуру и повторите шаги 4-6 для другой стороны."
+      },
+      {
+        "number": "7",
+        "image": "step12.png",
+        "text": "Turn model over and repeat steps 4-6 on the other side.",
+        "text-ru": "Переверните фигуру и повторите шаги 4-6 для другой стороны."
+      },
+      {
+        "number": "7",
+        "image": "step13.png",
+        "text": "Turn model over and repeat steps 4-6 on the other side.",
+        "text-ru": "Переверните фигуру и повторите шаги 4-6 для другой стороны."
+      },
+      {
+        "number": "8",
+        "image": "step14.png",
+        "text": "Now the dragon’s head is folded, all you need to do is pop it open!",
+        "text-ru": "Голова дракона сложена, необходимо разогнуть ее."
+      },
+      {
+        "number": "9",
+        "image": "step15.png",
+        "text": "Open it out by gently pulling it apart from the sides, as shown.",
+        "text-ru": "Откройте ее, осторожно потянув ее со сторон, как показано на рисунке."
+      },
+      {
+        "number": "9",
+        "image": "step16.png",
+        "text": "Open it out by gently pulling it apart from the sides, as shown.",
+        "text-ru": "Откройте ее, осторожно потянув ее со сторон, как показано на рисунке."
+      },
+      {
+        "number": "Final",
+        "image": "icon.png",
+        "text": "Finished Dragon Head!"
+      }
+    ]

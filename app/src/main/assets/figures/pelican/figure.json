@@ -1,0 +1,73 @@
+[
+      {
+        "number": "1",
+        "image": "step1.png",
+        "text": "Start with your paper white side up. Fold in half, as shown.",
+        "text-ru": "Положите квадратный лист бумаги цветной стороной вверх. Согните пополам в двух направлениях."
+      },      
+      {
+        "number": "2",
+        "image": "step2.png",
+        "text": "Fold the outside corners into the centre line, and crease well.",
+        "text-ru": "Переверните лист. Согните пополам, хорошо прогладьте и повторите для другого направления."
+      },
+      {
+        "number": "3",
+        "image": "step3.png",
+        "text": "Fold into the centre once again.",
+        "text-ru": "Согните к центру."
+      },
+      {
+        "number": "3",
+        "image": "step4.png",
+        "text": "Fold into the centre once again.",
+        "text-ru": "Согните к центру еще раз."
+      },
+      {
+        "number": "4",
+        "image": "step5.png",
+        "text": "Turn model over and fold bottom corner up to the top corner. Crease very well.",
+        "text-ru": "Переверните модель и сложите нижний уголок к верхнему. Хорошо прогладьте."
+      },
+      {
+        "number": "5",
+        "image": "step6.png",
+        "text": "Fold in half.",
+        "text-ru": "Сложите пополам."
+      },
+      {
+        "number": "6",
+        "image": "step7.png",
+        "text": "Rotate model.",
+        "text-ru": "Разверните модель."
+      },
+      {
+        "number": "7",
+        "image": "step8.png",
+        "text": "Raise the inside triangle upwards slowly, then flatten and crease well.",
+        "text-ru": "Медленно поднимите внутренний треугольник вверх, хорошо прогладьте. "
+      },
+      {
+        "number": "7",
+        "image": "step9.png",
+        "text": "Raise the inside triangle upwards slowly, then flatten and crease well.",
+        "text-ru": "Медленно поднимите внутренний треугольник вверх, хорошо прогладьте. "
+      },
+      {
+        "number": "8",
+        "image": "step10.png",
+        "text": "Inside Reverse Fold the head along the crease shown.",
+        "text-ru": "Сделайте загиб по показанной линии."
+      },
+      {
+        "number": "9",
+        "image": "step11.png",
+        "text": "Fold each wing upward as shown, then open out slightly. The pelican will now rest on its wings and sit up.",
+        "text-ru": "Согните каждое крыло вверх, затем немного приоткройте. Теперь пеликан будет опираться на свои крылья."
+      },
+      {
+        "number": "Final",
+        "image": "icon.png",
+        "text": "Finished Pelican!"
+      }
+    ]

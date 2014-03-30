@@ -1,0 +1,91 @@
+[
+      {
+        "number": "1",
+        "image": "step1.png",
+        "text": "Start with a square piece of paper, coloured side up. Fold the paper in half, crease well and open, and then fold again in the other direction.",
+        "text-ru": "Положите квадратный лист бумаги цветной стороной вверх. Согните пополам дважды, чтобы получить указанные линии сгиба."
+      },
+      {
+        "number": "2",
+        "image": "step2.png",
+        "text": "Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction. Your creases should look like this.",
+        "text-ru": "Переверните лист. Согните пополам, хоршо прогладьте и повторите для другого направления."
+      },
+      {
+        "number": "3",
+        "image": "step3.png",
+        "text": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.",
+        "text-ru": "Используя полученные сгибы, совместите верхние три уголка с низом фигуры. Прогладьте."
+      },
+      {
+        "number": "3",
+        "image": "step4.png",
+        "text": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.",
+        "text-ru": "Используя полученные сгибы, совместите верхние три уголка с низом фигуры. Прогладьте."
+      },
+      {
+        "number": "3",
+        "image": "step5.png",
+        "text": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.",
+        "text-ru": "Используя полученные сгибы, совместите верхние три уголка с низом фигуры. Прогладьте."
+      },
+      {
+        "number": "4",
+        "image": "step6.png",
+        "text": "Fold upper layer’s outside corners toward centre line, then fold the top downward along the crease shown. Unfold.",
+        "text-ru": "Согните внешние уголки верхнего слоя к центральной линии, затем согните верхний уголок к линии сгиба. Разогните."
+      },
+      {
+        "number": "5",
+        "image": "step7.png",
+        "text": "Cut only top layer up to the top crease.",
+        "text-ru": "Сделайте вырез в верхнем слое до верхнего сгиба."
+      },
+      {
+        "number": "6",
+        "image": "step8.png",
+        "text": "Fold the “legs” upwards along the creases shown.",
+        "text-ru": "Согните лапки вверх, как показано."
+      },
+      {
+        "number": "7",
+        "image": "step9.png",
+        "text": "Fold these sections in half, toward the centre.",
+        "text-ru": "Согните эти части пополам по направлению к центру."
+      },
+      {
+        "number": "7",
+        "image": "step10.png",
+        "text": " Fold these sections in half, toward the centre.",
+        "text-ru": "Согните эти части пополам по направлению к центру."
+      },
+      {
+        "number": "8",
+        "image": "step11.png",
+        "text": "Turn model over and repeat steps 4-7 on other side. The model should now look like this.",
+        "text-ru": "Переверните фигуру и повторите шаги 4-7 для обратной стороны. Должно получиться так."
+      },
+      {
+        "number": "9",
+        "image": "step12.png",
+        "text": "Rotate model and make creases as shown. Unfold.",
+        "text-ru": "Поверните фигуру и сделайте показанные сгибы. Разогните."
+      },
+      {
+        "number": "10",
+        "image": "step13.png",
+        "text": "Inside Reverse Fold the head and the tail.",
+        "text-ru": "Согните голову и хвост"
+      },
+      {
+        "number": "11",
+        "image": "step15.png",
+        "text": "To make the horse do a somersault, sharply tap upwards under his tail.",
+        "text-ru": "Для того, чтобы лошадь прыгнула, резко щелкните по ее хвосту."
+      },
+      {
+        "number": "Final",
+        "image": "icon.png",
+        "text": "Finished Horse!"
+      }
+    ]

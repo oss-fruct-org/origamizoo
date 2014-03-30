@@ -1,0 +1,79 @@
+[
+      {
+        "number": "1",
+        "image": "step1.png",
+        "text": "Start with a rectangular sheet of paper, white side up. Fold it in half, and open out again",
+        "text-ru": "Положите прямоугольный лист бумаги белой стороной вверх. Согните и разогните пополам."
+      },
+      {
+        "number": "2",
+        "image": "step2.png",
+        "text": "Fold both top corners to the opposite edge of the paper. Your creases should look like this.",
+        "text-ru": "Сложите верхние уголки к противоположному краю бумаги. Дожны получиться такие сгибы."
+      },
+      {
+        "number": "3",
+        "image": "step3.png",
+        "text": "Where the diagonal creases meet in the middle, fold the paper backwards, crease well and open.",
+        "text-ru": "Там, где диагональные сгибы пересекаются в середине, согните бумагу назад, хорошо прогладьте и разогните."
+      },
+      {
+        "number": "4",
+        "image": "step4.png",
+        "text": "Hold the paper at the sides, bring these points down to the centre line, then flatten. The creases should do most of the work here!",
+        "text-ru": "Держа бумагу по сторонам, совместите эти точки к центральной линии. Сделанные ранее сгибы должны сделать всю работу!"
+      },
+      {
+        "number": "4",
+        "image": "step5.png",
+        "text": "Hold the paper at the sides, bring these points down to the centre line, then flatten. The creases should do most of the work here!",
+        "text-ru": "Держа бумагу по сторонам, совместите эти точки к центральной линии. Сделанные ранее сгибы должны сделать всю работу!"
+      },
+      {
+        "number": "5",
+        "image": "step6.png",
+        "text": "Fold the uppermost triangles up to the top point.",
+        "text-ru": "Согните треугольники вверх к самой верхней точке."
+      },
+      {
+        "number": "6",
+        "image": "step7.png",
+        "text": "Fold sides in to the centre line.",
+        "text-ru": "Согните стороны к центральной линии."
+      },
+      {
+        "number": "7",
+        "image": "step8.png",
+        "text": "Fold bottom of model upwards so the end sits in the centre of the top diamond.",
+        "text-ru": "Согните низ фигуры вверх так, что нижняя часть бумаги будет находиться в центре «ромба»."
+      },
+      {
+        "number": "7",
+        "image": "step9.png",
+        "text": "Fold bottom of model upwards so the end sits in the centre of the top diamond.",
+        "text-ru": "Согните низ фигуры вверх так, что нижняя часть бумаги будет находиться в центре «ромба»."
+      },
+      {
+        "number": "8",
+        "image": "step10.png",
+        "text": "Now fold the same part downwards, in half.",
+        "text-ru": "Теперь согните эту часть пополам вниз."
+      },
+      {
+        "number": "8",
+        "image": "step11.png",
+        "text": "Now fold the same part downwards, in half.",
+        "text-ru": "Теперь согните эту часть пополам вниз."
+      },
+      {
+        "number": "9",
+        "image": "step12.png",
+        "text": "Turn over and your frog is finished! To make him jump, press down on his back as shown.",
+        "text-ru": "Переверните фигуру. Лягушка готова. Чтобы она прыгнула, нажмите на низ, как показано на рисунке."
+      },
+      {
+        "number": "Final",
+        "image": "icon.png",
+        "text": "Finished Jumping Frog!"
+      }
+    ]

@@ -1,0 +1,67 @@
+[
+      {
+        "number": "1",
+        "image": "step1.png",
+        "text": "Start with your paper color side up. Fold in half, as shown.",
+        "text-ru": "Положите треугольный лист бумаги цветной стороной вверх. Согните пополам. Разогните."
+      },
+      {
+        "number": "2",
+        "image": "step2.png",
+        "text": "Fold in half again, crease and open.",
+        "text-ru": "Согните пополам, прогладьте и откройте обратно."
+      },
+      {
+        "number": "3",
+        "image": "step3.png",
+        "text": "Now fold top of model down past the baseline of the model.",
+        "text-ru": "Теперь сложите верх фигуры вниз. За границы фигуры."
+      },
+      {
+        "number": "4",
+        "image": "step4.png",
+        "text": "Fold whole model in half.",
+        "text-ru": "Согните всю модель пополам."
+      },
+      {
+        "number": "4",
+        "image": "step5.png",
+        "text": "Fold whole model in half.",
+        "text-ru": "Согните всю модель пополам."
+      },
+      {
+        "number": "5",
+        "image": "step6.png",
+        "text": "Rotate model.",
+        "text-ru": "Поверните фигуру."
+      },
+      {
+        "number": "6",
+        "image": "step7.png",
+        "text": "Fold down the top flap along this line. Then repeat the same thing on the flap behind.",
+        "text-ru": "Согните верхний слой вниз по указанной линии. Затем повторите для слоя с другой стороны."
+      },
+      {
+        "number": "7",
+        "image": "step8.png",
+        "text": "Now fold the wings back upwards so they sit horizontally, as shown.",
+        "text-ru": "Согните крылья назад вверх так, что они будут размещены горизонтально."
+      },
+      {
+        "number": "7",
+        "image": "step9.png",
+        "text": "Now fold the wings back upwards so they sit horizontally, as shown.",
+        "text-ru": "Согните крылья назад вверх так, что они будут размещены горизонтально."
+      },
+      {
+        "number": "8",
+        "image": "step10.png",
+        "text": "To make the Twirling bird fly, throw it like a paper plane. It will tumble in circles!",
+        "text-ru": "Чтобы птица полетела, запустите ее как бумажный самолет. Она будет падать и кружить."
+      },
+      {
+        "number": "Final",
+        "image": "icon.png",
+        "text": "Finished Twirling Bird!"
+      }
+    ]

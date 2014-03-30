@@ -1,0 +1,54 @@
+[
+      {
+        "number": "1",
+        "image": "step1.png",
+        "text": "Start with a square piece of paper, white side up. Fold in half.",
+        "text-ru": "Положите квадратный лист бумаги белой стороной вверх. Согните пополам."
+      },
+      {
+        "number": "2",
+        "image": "step2.png",
+        "text": "Fold this triangle in half, crease well then open.",
+        "text-ru": "Согните треугольник пополам, прогладьте и откройте обратно."
+      },
+      {
+        "number": "3",
+        "image": "step3.png",
+        "text": "Fold the top 2 corners downwards, but not right to the centre line: leave a little gap.",
+        "text-ru": "Сложите два верхних угла вниз к центральной линии, оставляя небольшие промежутки."
+      },
+      {
+        "number": "3",
+        "image": "step4.png",
+        "text": "Fold the top 2 corners downwards, but not right to the centre line: leave a little gap.",
+        "text-ru": "Сложите два верхних угла вниз к центральной линии, оставляя небольшие промежутки."
+      },
+      {
+        "number": "4",
+        "image": "step5.png",
+        "text": "Turn model over. Fold down top corner to the centre point of the model.",
+        "text-ru": "Переверните модель. Загните верхний уголок к центральной точке."
+      },
+      {
+        "number": "5",
+        "image": "step6.png",
+        "text": "Now fold this corner upwards, and flatten.",
+        "text-ru": "Теперь согните уголок вниз и прогладьте."
+      },
+      {
+        "number": "5",
+        "image": "step7.png",
+        "text": "Now fold this corner upwards, and flatten.",
+        "text-ru": "Теперь согните уголок вниз и прогладьте."
+      },
+      {
+        "number": "6",
+        "image": "step8.png",
+        "text": "Finished Ladybug Turn back over.",
+        "text-ru": "Переверните фигуру. Готово!"
+      },
+      {
+        "number": "Final",
+        "image": "icon.png"
+      }
+    ]
