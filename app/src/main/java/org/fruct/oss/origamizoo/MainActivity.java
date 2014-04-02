@@ -168,8 +168,10 @@ public class MainActivity extends ActionBarActivity {
             });
 
             android.support.v7.app.ActionBar actionBar = ((ActionBarActivity)getActivity()).getSupportActionBar();
-            if (actionBar != null)
+            if (actionBar != null) {
                 actionBar.setDisplayHomeAsUpEnabled(false);
+                actionBar.setTitle(getString(R.string.app_name));
+            }
 
             return rootView;
         }
@@ -549,8 +551,10 @@ public class MainActivity extends ActionBarActivity {
                 versionText.setVisibility(View.GONE);
 
             android.support.v7.app.ActionBar actionBar = ((ActionBarActivity)getActivity()).getSupportActionBar();
-            if (actionBar != null)
+            if (actionBar != null) {
                 actionBar.setDisplayHomeAsUpEnabled(true);
+                actionBar.setTitle(getString(R.string.action_about));
+            }
 
 
             return rootView;
@@ -575,8 +579,10 @@ public class MainActivity extends ActionBarActivity {
             View rootView = inflater.inflate(R.layout.fragment_help, container, false);
 
             android.support.v7.app.ActionBar actionBar = ((ActionBarActivity)getActivity()).getSupportActionBar();
-            if (actionBar != null)
+            if (actionBar != null) {
                 actionBar.setDisplayHomeAsUpEnabled(true);
+                actionBar.setTitle(getString(R.string.action_help));
+            }
 
             return rootView;
         }
