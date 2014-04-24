@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Origami Zoo</string><!--
-    <string name="action_settings">Settings</string>-->
+    <string name="app_name">Origami Zoo</string>
 	<string name="action_help">Instructions</string>
 	<string name="action_about">About</string>
 
+    <!-- Do not delete this part of string in your translations: "%1$s" -->
 	<string name="about_version">Version %1$s</string>
+
 	<string name="about_copyright">&#169; Copyright 2012 Mobile and Wireless Systems Lab of IT-park of Petrozavodsk State University (member of FRUCT association).</string>
 	<string name="about_grant">The application is the part of grant KA179 of Karelia ENPI CBC programme, which is co-funded by the European Union, the Russian Federation and the Republic of Finland.</string>
 	<string name="about_source">Thanks Origami Fun (origami-fun.com) project for origami diagrams. \n\nSystembar tint. Copyright 2013 readyState Software Limited. Licensed under Apache 2.0 license</string>
-	<string name="instruction_swipe">Swipe instructions left and right</string>
-	<string name="ok">OK</string>
-	<string name="list_item_steps">Steps:&#160; %1$d</string>
-	<string name="finished">Finished!</string>
-	<string name="level">Level:&#160;</string>
 
+    <string name="instruction_swipe">Swipe instructions left and right</string>
+	<string name="ok">OK</string>
+
+    <!-- Do not delete this part of string in your translations: "%1$d". Space character must be written as entity code -->
+	<string name="list_item_steps">Steps:&#160;%1$d</string>
+	<string name="finished">Finished!</string>
+
+    <!-- Space character must be written as entity code -->
+	<string name="level">Comlpexity:&#160;</string>
+
+    <!-- Instructions page -->
 	<string name="inst_crease">Crease line</string>
 	<string name="inst_valley_fold">Valley fold</string>
 	<string name="inst_fold_in_direction">Fold in this direction</string>
@@ -25,5 +32,305 @@
 	<string name="inst_rotate">Rotate</string>
 	<string name="inst_blow_up">Blow up</string>
 
+    <!--
+        Following section represents strings for figures:
+            * names
+            * instructions for each figure
+    -->
+
+	<!-- Figures names -->
+	<string-array name="figures_names">
+		<item>Butterfly</item>
+		<item>Crane</item>
+		<item>Ladybug</item>
+		<item>Snapper</item>
+		<item>Talking Dog</item>
+		<item>Twirling Bird</item>
+		<item>Bird</item>
+		<item>Dragon Head</item>
+		<item>Flapping Bird</item>
+		<item>Horse</item>
+		<item>Jumping Frog</item>
+		<item>Owl</item>
+		<item>Pelican</item>
+		<item>Puffy Bunny</item>
+		<item>Sitting Dog</item>
+		<item>Tortoise</item>
+    </string-array>
+
+
+	<!-- Bird -->
+	<string name="bird_1">Start with your paper white side up. Fold in half, as shown. The open</string>
+	<string name="bird_2">Fold the outside corners into the centre line, and crease well.</string>
+	<string name="bird_3">Fold the top triangle backwards.</string>
+	<string name="bird_4">Fold the corners of the model in toward the centre, crease well, then open again.</string>
+	<string name="bird_5">Bring the highlighted corner up and outward using the crease shown. Then bring the highlighted corner back down toward the centre line and flatten.</string>
+	<string name="bird_6">@string/bird_5</string>
+	<string name="bird_7">@string/bird_5</string>
+	<string name="bird_8">Repeat this step on the opposite corner… the model should now look like this.</string>
+	<string name="bird_9">Fold the outermost corners backwards on the angle shown and crease well.</string>
+	<string name="bird_10">Mountain fold the model in half. (Fold backwards)</string>
+	<string name="bird_11">Rotate the model slightly so you can see the bird forming.</string>
+	<string name="bird_12">Make these creases and unfold.</string>
+	<string name="bird_13">Using these creases, inside reverse fold to make the head and the tail of the bird. If you have folded the feet at the correct angle (in step 7), the model should stand up. You can refold the feet if you need to.</string>
+
+
+	<!-- Butterfly -->
+	<string name="butterfly_1">@string/bird_1</string>
+	<string name="butterfly_2">Now Fold the Paper in half diagonally, both ways.</string>
+	<string name="butterfly_3">Fold all four corners into the centre and crease well.</string>
+	<string name="butterfly_4">@string/butterfly_3</string>
+	<string name="butterfly_5">Turn Over and Fold all four corners into the centre again.</string>
+	<string name="butterfly_6">@string/butterfly_5</string>
+	<string name="butterfly_7">Your creases should look like this. It looks complicated, but don\'t worry!</string>
+	<string name="butterfly_8">Fold the outside edges into the centre line.</string>
+	<string name="butterfly_9">@string/butterfly_8</string>
+	<string name="butterfly_10">Holding each inside edge from the point at the centre, bring these edges out to the points shown.</string>
+	<string name="butterfly_11">Then, fold the top edge downwards and flatten.</string>
+	<string name="butterfly_12">@string/butterfly_11</string>
+	<string name="butterfly_13">Rotate the model, and repeat step 7.</string>
+	<string name="butterfly_14">@string/butterfly_13</string>
+	<string name="butterfly_15">@string/butterfly_13</string>
+	<string name="butterfly_16">Fold the top half backwards and flatten.</string>
+	<string name="butterfly_17">Fold down the front outside corners.</string>
+	<string name="butterfly_18">Fold these outside corners inward as shown.</string>
+	<string name="butterfly_19">Fold the butterfly in half.</string>
+	<string name="butterfly_20">Now fold the top layer backwards, at the angle shown.</string>
+	<string name="butterfly_21">And now fold the back wing backwards also at the same angle.</string>
+	<string name="butterfly_22">@string/butterfly_21</string>
+	<string name="butterfly_23">Open out. Your butterfly is complete!.</string>
+
+    <!-- Crane -->
+    <string name="crane_1">Start with a square piece of paper, coloured side up. Fold the top corner of the paper down to the bottom corner. Crease and open again. Then fold the paper in half sideways.</string>
+    <string name="crane_2">Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction.</string>
+    <string name="crane_3">Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.</string>
+    <string name="crane_4">@string/crane_3</string>
+    <string name="crane_5">@string/crane_3</string>
+    <string name="crane_6">Fold top triangular flaps into the centre and unfold.</string>
+    <string name="crane_7">Fold top of model downwards, crease well and unfold.</string>
+    <string name="crane_8">Open the uppermost flap of the model, bringing it upwards and pressing the sides of the model inwards at the same time. Flatten down, creasing well.</string>
+    <string name="crane_9">@string/crane_8</string>
+    <string name="crane_10">@string/crane_8</string>
+    <string name="crane_11">Turn model over and repeat Steps 4–6 on the other side.</string>
+    <string name="crane_12">Fold top flaps into the centre.</string>
+    <string name="crane_13">@string/crane_12</string>
+    <string name="crane_14">Repeat on other side, so your model looks like this.</string>
+    <string name="crane_15">Fold both ‘legs’ of model up, crease very well, then unfold.</string>
+    <string name="crane_16">@string/crane_15</string>
+    <string name="crane_17">Inside Reverse Fold the “legs” along the creases you just made.</string>
+    <string name="crane_18">Inside Reverse Fold one side to make a head, then fold down the wings.</string>
+    <string name="crane_19">@string/crane_18</string>
+
+    <!-- Dragon head -->
+    <string name="dragon_head_1">Start with a square piece of paper, coloured side up. Fold in half in 2 directions.</string>
+    <string name="dragon_head_2">Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction.</string>
+    <string name="dragon_head_3">Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.</string>
+    <string name="dragon_head_4">@string/dragon_head_3</string>
+    <string name="dragon_head_5">@string/dragon_head_3</string>
+    <string name="dragon_head_6">Fold the bottom corner upwards to the top corner.</string>
+    <string name="dragon_head_7">Fold the uppermost outer corners toward the centre line.</string>
+    <string name="dragon_head_8">Now Fold the top corner down.</string>
+    <string name="dragon_head_9">@string/dragon_head_8</string>
+    <string name="dragon_head_10">Turn model over and repeat steps 4–6 on the other side.</string>
+    <string name="dragon_head_11">@string/dragon_head_10</string>
+    <string name="dragon_head_12">@string/dragon_head_10</string>
+    <string name="dragon_head_13">@string/dragon_head_10</string>
+    <string name="dragon_head_14">Now the dragon’s head is folded, all you need to do is pop it open!</string>
+    <string name="dragon_head_15">Open it out by gently pulling it apart from the sides, as shown.</string>
+    <string name="dragon_head_16">@string/dragon_head_15</string>
+
+    <!-- Flapping bird -->
+    <string name="flapping_bird_1">Start with a square piece of paper, coloured side up. Fold in half twice as shown to create these creases.</string>
+    <string name="flapping_bird_2">Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction.</string>
+    <string name="flapping_bird_3">Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.</string>
+    <string name="flapping_bird_4">@string/flapping_bird_3</string>
+    <string name="flapping_bird_5">@string/flapping_bird_3</string>
+    <string name="flapping_bird_6">Fold top triangular flaps into the centre and unfold.</string>
+    <string name="flapping_bird_7">Fold top of model downwards, crease well and unfold.</string>
+    <string name="flapping_bird_8">Open the uppermost flap of the model, bringing it upwards and pressing the sides of the model inwards at the same time. Flatten down, creasing well.</string>
+    <string name="flapping_bird_9">@string/flapping_bird_8</string>
+    <string name="flapping_bird_10">@string/flapping_bird_8</string>
+    <string name="flapping_bird_11">Turn model over and repeat Steps 4–6 on the other side.</string>
+    <string name="flapping_bird_12">@string/flapping_bird_11</string>
+    <string name="flapping_bird_13">Fold “legs” upward along the outside edges, then open again.</string>
+    <string name="flapping_bird_14">@string/flapping_bird_13</string>
+    <string name="flapping_bird_15">@string/flapping_bird_13</string>
+    <string name="flapping_bird_16">Use the creases just made to inside reverse fold these parts.</string>
+    <string name="flapping_bird_17">@string/flapping_bird_16</string>
+    <string name="flapping_bird_18">Inside reverse fold the head, and fold down the wings as shown. Then partially open them up again.</string>
+    <string name="flapping_bird_19">@string/flapping_bird_18</string>
+    <string name="flapping_bird_20">To make the wings flap forward, pull the tail.</string>
+
+    <!-- Horse -->
+    <string name="horse_1">Start with a square piece of paper, coloured side up. Fold the paper in half, crease well and open, and then fold again in the other direction.</string>
+    <string name="horse_2">Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction. Your creases should look like this.</string>
+    <string name="horse_3">Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.</string>
+    <string name="horse_4">@string/horse_3</string>
+    <string name="horse_5">@string/horse_3</string>
+    <string name="horse_6">Fold upper layer’s outside corners toward centre line, then fold the top downward along the crease shown. Unfold.</string>
+    <string name="horse_7">Cut only top layer up to the top crease.</string>
+    <string name="horse_8">Fold the “legs” upwards along the creases shown.</string>
+    <string name="horse_9">Fold these sections in half, toward the centre.</string>
+    <string name="horse_10"> Fold these sections in half, toward the centre.</string>
+    <string name="horse_11">Turn model over and repeat steps 4–7 on other side. The model should now look like this.</string>
+    <string name="horse_12">Rotate model and make creases as shown. Unfold.</string>
+    <string name="horse_13">Inside Reverse Fold the head and the tail.</string>
+    <string name="horse_14">To make the horse do a somersault, sharply tap upwards under his tail.</string>
+
+    <!-- Jumping frog -->
+    <string name="jumping_frog_1">Start with a rectangular sheet of paper, white side up. Fold it in half, and open out again.</string>
+    <string name="jumping_frog_2">Fold both top corners to the opposite edge of the paper. Your creases should look like this.</string>
+    <string name="jumping_frog_3">Where the diagonal creases meet in the middle, fold the paper backwards, crease well and open.</string>
+    <string name="jumping_frog_4">Hold the paper at the sides, bring these points down to the centre line, then flatten. The creases should do most of the work here!</string>
+    <string name="jumping_frog_5">@string/horse_4</string>
+    <string name="jumping_frog_6">Fold the uppermost triangles up to the top point.</string>
+    <string name="jumping_frog_7">Fold sides in to the centre line.</string>
+    <string name="jumping_frog_8">Fold bottom of model upwards so the end sits in the centre of the top diamond.</string>
+    <string name="jumping_frog_9">@string/horse_8</string>
+    <string name="jumping_frog_10">Now fold the same part downwards, in half.</string>
+    <string name="jumping_frog_11">@string/horse_10</string>
+    <string name="jumping_frog_12">Turn over and your frog is finished! To make him jump, press down on his back as shown.</string>
+
+    <!-- Ladybug -->
+    <string name="ladybug_1">Start with a square piece of paper, white side up. Fold in half.</string>
+    <string name="ladybug_2">Fold this triangle in half, crease well then open.</string>
+    <string name="ladybug_3">Fold the top 2 corners downwards, but not right to the centre line: leave a little gap.</string>
+    <string name="ladybug_4">@string/ladybug_3</string>
+    <string name="ladybug_5">Turn model over. Fold down top corner to the centre point of the model.</string>
+    <string name="ladybug_6">Now fold this corner upwards, and flatten.</string>
+    <string name="ladybug_7">@string/ladybug_6</string>
+
+    <!-- Owl -->
+    <string name="owl_1">Start with a square piece of paper, coloured side up. Fold the top corner of the paper down to the bottom corner. Crease and open again. Then fold the paper in half sideways.</string>
+    <string name="owl_2">Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction.</string>
+    <string name="owl_3">Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model.</string>
+    <string name="owl_4">@string/owl_3</string>
+    <string name="owl_5">@string/owl_3</string>
+    <string name="owl_6">Fold top triangular flaps into the centre and unfold.</string>
+    <string name="owl_7">Fold top of model downwards, crease well and unfold.</string>
+    <string name="owl_8">Open the uppermost flap of the model, bringing it upwards and pressing the sides of the model inwards at the same time. Flatten down, creasing well.</string>
+    <string name="owl_9">@string/owl_8</string>
+    <string name="owl_10">@string/owl_8</string>
+    <string name="owl_11">Turn model over and repeat Steps 4–6 on the other side.</string>
+    <string name="owl_12">Fold front flap down.</string>
+    <string name="owl_13">Fold back flap down.</string>
+    <string name="owl_14">On the top layer, fold the top corners in to the centre line, and repeat on back.</string>
+    <string name="owl_15">@string/owl_14</string>
+    <string name="owl_16">Form wing by lifting up from the inside, and twisting the wing forwards. Repeat for other wing.</string>
+    <string name="owl_17">@string/owl_16</string>
+    <string name="owl_18">Fold top of model down as shown.</string>
+    <string name="owl_19">Fold back up along crease shown.</string>
+    <string name="owl_20">Fold whole top down along crease shown.</string>
+    <string name="owl_21">Cut ONLY TOP layer, along the line shown.</string>
+    <string name="owl_22">Fold upwards to form feet.</string>
+    <string name="owl_23">@string/owl_22</string>
+    <string name="owl_24">Turn owl over and cut the top layer only as shown.</string>
+    <string name="owl_25">Turn back over and lift up the ears.</string>
+
+    <!-- Pelican -->
+    <string name="pelican_1">@string/bird_1</string>
+    <string name="pelican_2">Fold the outside corners into the centre line, and crease well.</string>
+    <string name="pelican_3">Fold into the centre once again.</string>
+    <string name="pelican_4">@string/pelican_3</string>
+    <string name="pelican_5">Turn model over and fold bottom corner up to the top corner. Crease very well.</string>
+    <string name="pelican_6">Fold in half.</string>
+    <string name="pelican_7">Rotate model.</string>
+    <string name="pelican_8">Raise the inside triangle upwards slowly, then flatten and crease well.</string>
+    <string name="pelican_9">@string/pelican_9</string>
+    <string name="pelican_10">Inside Reverse Fold the head along the crease shown.</string>
+    <string name="pelican_11">Fold each wing upward as shown, then open out slightly. The pelican will now rest on its wings and sit up.</string>
+
+    <!-- Puffy bunny -->
+    <string name="puffy_bunny_1">@string/bird_1</string>
+    <string name="puffy_bunny_2">Turn the paper over and fold in half diagonally and in both directions. Crease well and open out once again.</string>
+    <string name="puffy_bunny_3">Holding the points shown, bring them both down to the centre point on the bottom line. Flatten model. This is called a waterbomb base.</string>
+    <string name="puffy_bunny_4">Holding the points shown, bring them both down to the centre point on the bottom line. Flatten model. This is called a waterbomb base.</string>
+    <string name="puffy_bunny_5">Holding the points shown, bring them both down to the centre point on the bottom line. Flatten model. This is called a waterbomb base.</string>
+    <string name="puffy_bunny_6">Fold front triangles in to centre line.</string>
+    <string name="puffy_bunny_7">Fold front triangles in to centre line.</string>
+    <string name="puffy_bunny_8">Fold edges to centre line.</string>
+    <string name="puffy_bunny_9">Fold front flaps of top triangles downwards, creasing well.</string>
+    <string name="puffy_bunny_10">Fold again, diagonally, then tuck into pockets.</string>
+    <string name="puffy_bunny_11">Fold again, diagonally, then tuck into pockets.</string>
+    <string name="puffy_bunny_12">Turn over and fold bottom corners in to centre.</string>
+    <string name="puffy_bunny_13">Fold front flap to the left.</string>
+    <string name="puffy_bunny_14">Crease front flap into toward centre line.</string>
+    <string name="puffy_bunny_15">Move top flap to the right.</string>
+    <string name="puffy_bunny_16">Move the next flap to the right.</string>
+    <string name="puffy_bunny_17">Crease top flap in toward centre line.</string>
+    <string name="puffy_bunny_18">Move top flap to the left.</string>
+    <string name="puffy_bunny_19">Fold top layers outward along creases shown.</string>
+    <string name="puffy_bunny_20">Open out the ears.</string>
+    <string name="puffy_bunny_21">Fold nose under to form crease shown. Then fold back again.</string>
+    <string name="puffy_bunny_22">To inflate bunny, blow into its nose!</string>
+
+    <!-- Sitting dog -->
+    <string name="sitting_dog_1">Start with white side up. Fold in half.</string>
+    <string name="sitting_dog_2">Fold to centre line.</string>
+    <string name="sitting_dog_3">Fold in half.</string>
+    <string name="sitting_dog_4">@string/sitting_dog_3</string>
+    <string name="sitting_dog_5">Crease as shown, flatten well, then open.</string>
+    <string name="sitting_dog_6">Using this crease, Outside Reverse fold as shown.</string>
+    <string name="sitting_dog_7">Crease as shown, and open.</string>
+    <string name="sitting_dog_8">Outside Reverse fold once again.</string>
+    <string name="sitting_dog_9">Fold part of neck. Crease well. ‘Sink’ this point by pressing on it to reverse the creases.</string>
+    <string name="sitting_dog_10">@string/sitting_dog_9</string>
+    <string name="sitting_dog_11">To make the nose, crease twice, then Inside Reverse fold each crease.</string>
+    <string name="sitting_dog_12">Inside Reverse fold once again to the end of the nose.</string>
+    <string name="sitting_dog_13">@string/sitting_dog_12</string>
+    <string name="sitting_dog_14">Crease well, twice, along the lines shown. Then Inside Reverse fold both to make the tail.</string>
+    <string name="sitting_dog_15">Fold the bottom part of both sides of the tail upwards toward the body.</string>
+
+    <!-- Snapper -->
+    <string name="snapper_1">Start with a rectangular piece of paper, coloured side up. Fold in half, then open.</string>
+    <string name="snapper_2">Fold in half downwards.</string>
+    <string name="snapper_3">Bring corners in to centre line.</string>
+    <string name="snapper_4">Fold uppermost layer upwards do the same to the back. Crease well.</string>
+    <string name="snapper_5">Pull the sides out and flatten.</string>
+    <string name="snapper_6">Fold front layer up to top, then do the same at the back.</string>
+    <string name="snapper_7">Pull the sides apart and flatten.</string>
+    <string name="snapper_8">Gently pull the top parts of the model outwards, making a boat shape.</string>
+    <string name="snapper_9">Flatten well.</string>
+    <string name="snapper_10">Tuck the little centre triangle under one of the sides. Then bring the outside corners to meet together, letting the sides move outwards.</string>
+    <string name="snapper_11">@string/snapper_10</string>
+    <string name="snapper_12">Finished Snapper. To make it snap, hold as shown and press together. It looks especiallly good with eyes!</string>
+
+    <!-- Talking dog -->
+    <string name="talking_dog_1">@string/bird_1</string>
+    <string name="talking_dog_2">Fold the top corner down to the bottom corner.</string>
+    <string name="talking_dog_3">Fold the two top corners down to the points shown.</string>
+    <string name="talking_dog_4">Fold the uppermost layer of the bottom corner up a little way.</string>
+    <string name="talking_dog_5">Fold this layer up again, from the top of the triangle as shown.</string>
+    <string name="talking_dog_6">Add eyes and a nose to the dog’s face. If you like you can even add a tongue!</string>
+    <string name="talking_dog_7">To make your dog talk, hold the model by the ears and move back and forwards shown by the arrows.</string>
+
+    <!-- Tortoise -->
+    <string name="tortoise_1">@string/bird_1</string>
+    <string name="tortoise_2">Now fold the top corner down to the bottom corner.</string>
+    <string name="tortoise_3">Fold the outside corners in to the centre line.</string>
+    <string name="tortoise_4">@string/tortoise_3</string>
+    <string name="tortoise_5">Fold these same triangles upwards to the top point.</string>
+    <string name="tortoise_6">@string/tortoise_5</string>
+    <string name="tortoise_7">Fold only the uppermost layers outwards as shown.</string>
+    <string name="tortoise_8">@string/tortoise_7</string>
+    <string name="tortoise_9">Cut ONLY the top layer up to the centre of the model.</string>
+    <string name="tortoise_10">Fold out the bottom flaps as you did in Step 5.</string>
+    <string name="tortoise_11">@string/tortoise_10</string>
+    <string name="tortoise_12">Fold the 2 sides in to the centre, and the top point downwards as shown.</string>
+    <string name="tortoise_13">Now fold up.</string>
+    <string name="tortoise_14">@string/tortoise_13</string>
+    <string name="tortoise_15">Turn Over, the tortoise is finished!.</string>
+
+    <!-- Twirling bird -->
+    <string name="twirling_bird_1">Start with your paper color side up. Fold in half, as shown.</string>
+    <string name="twirling_bird_2">Fold in half again, crease and open.</string>
+    <string name="twirling_bird_3">Now fold top of model down past the baseline of the model.</string>
+    <string name="twirling_bird_4">Fold whole model in half.</string>
+    <string name="twirling_bird_5">@string/twirling_bird_4</string>
+    <string name="twirling_bird_6">Rotate model.</string>
+    <string name="twirling_bird_7">Fold down the top flap along this line. Then repeat the same thing on the flap behind.</string>
+    <string name="twirling_bird_8">Now fold the wings back upwards so they sit horizontally, as shown.</string>
+    <string name="twirling_bird_9">@string/twirling_bird_8</string>
+    <string name="twirling_bird_10">To make the Twirling bird fly, throw it like a paper plane. It will tumble in circles!</string>
 
 </resources>

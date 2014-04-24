@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OrigamiZoo.iml" filepath="$PROJECT_DIR$/OrigamiZoo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/origamizoo.iml" filepath="$PROJECT_DIR$/origamizoo.iml" />
     </modules>
   </component>
 </project>

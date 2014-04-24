@@ -1,5 +1,6 @@
 package org.fruct.oss.origamizoo;
 
+import android.app.Activity;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.pm.PackageInfo;
@@ -18,14 +19,9 @@ import android.util.Log;
 import android.view.*;
 import android.widget.*;
 import com.readystatesoftware.systembartint.SystemBarTintManager;
-import org.json.JSONArray;
-import org.json.JSONObject;
 
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -117,35 +113,24 @@ public class MainActivity extends ActionBarActivity {
 
             ArrayList<OrigamiInfo> array = new ArrayList<OrigamiInfo>();
 
-            boolean isLangRu = false;
-            if (Locale.getDefault().getLanguage().equals("ru"))
-                isLangRu = true;
+            Resources res = getResources();
+            String[] figNames = res.getStringArray(R.array.figures_names);
+            String[] figSteps = res.getStringArray(R.array.figures_steps_toshow);
+            String[] figRealSteps = res.getStringArray(R.array.figures_steps_real);
+            String[] figComplexity = res.getStringArray(R.array.figures_complexity);
+            String[] figCodeNames = res.getStringArray(R.array.figures_folder);
 
-            try {
-                JSONArray globalArray = new JSONArray(loadJSONFromAsset("figures.json", getActivity()));
+            for (int i = 0; i < figNames.length; i++) {
+                OrigamiInfo info = new OrigamiInfo();
 
-                Context context = getActivity();
-                Resources resources = context.getResources();
+                info.name = figNames[i];
+                info.complexity = Integer.parseInt(figComplexity[i]);
+                info.totalSteps = Integer.parseInt(figSteps[i]);
+                info.realSteps = Integer.parseInt(figRealSteps[i]);
+                info.folder = figCodeNames[i];
+                info.image = res.getDrawable(res.getIdentifier("ic_" + info.folder, "drawable", getActivity().getPackageName()));
 
-                for (int i = 0; i < globalArray.length(); i++) {
-
-                    OrigamiInfo info = new OrigamiInfo();
-                    JSONObject object = globalArray.getJSONObject(i);
-
-                    info.name = isLangRu ? object.getString("name-ru") : object.getString("name");
-                    info.complexity = Integer.parseInt(object.getString("level"));
-                    info.folder = object.getString("folder");
-                    info.totalSteps = Integer.parseInt(object.getString("steps"));
-                    //Log.e("origami", "ic_"+object.getString("folder"));
-                    info.image = resources.getDrawable(resources.getIdentifier("ic_"+object.getString("folder"), "drawable", context.getPackageName()));
-
-                    array.add(i, info);
-                }
-
-
-            } catch (Exception e) {
-                e.printStackTrace();
-                return rootView;
+                array.add(i, info);
             }
 
             final OrigamiMainAdapter adapter = new OrigamiMainAdapter(getActivity(), array);
@@ -157,7 +142,7 @@ public class MainActivity extends ActionBarActivity {
                 public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                     OrigamiInfo info = (OrigamiInfo) adapter.getItem(position);
 
-                    InstructionFragment fragment = new InstructionFragment(info.name, info.folder, info.complexity, info.totalSteps);
+                    InstructionFragment fragment = new InstructionFragment(info.name, info.folder, info.complexity, info.totalSteps, info.realSteps);
                     getActivity().getSupportFragmentManager()
                             .beginTransaction()
                             .replace(R.id.container, fragment)
@@ -178,13 +163,13 @@ public class MainActivity extends ActionBarActivity {
 
         /**
          * Load JSON from assets folder
-         * @param filename name of file to load
-         * @param cont context
+         * @ filename name of file to load
+         * @ cont context
          * @return loaded string
          *
          * CODE FROM TOURME
          */
-        public static String loadJSONFromAsset(String filename, Context cont) {
+/*        public static String loadJSONFromAsset(String filename, Context cont) {
             String json;
             try {
                 InputStream is = cont.getAssets().open(filename);
@@ -199,13 +184,14 @@ public class MainActivity extends ActionBarActivity {
             }
 
             return json;
-        }
+        }*/
 
         public class OrigamiInfo {
             public String name;
             public String folder;
             public int complexity;
             public int totalSteps;
+            public int realSteps;
             Drawable image;
         }
 
@@ -290,16 +276,17 @@ public class MainActivity extends ActionBarActivity {
         private String folder;
         //private int step; // Actually this can be not equal with the steps at previous fragment
         private int totalSteps;
+        private int realSteps; // real value, not value to show
         private int complexity;
 
-        public InstructionFragment(String name, String folder, int complexity, int _totalSteps) {
+        public InstructionFragment(String name, String folder, int complexity, int shownSteps, int _realSteps) {
         //public InstructionFragment(String name, String folder, int complexity) {
             this.name = name;
             this.folder = folder;
             //this.step = _step;
-            this.totalSteps = _totalSteps;
+            this.realSteps = _realSteps;
             this.complexity = complexity;
-            //Log.e("origamizoo", " " + name + " " + folder + " " + complexity);
+            Log.e("origamizoo", " " + folder + " " + shownSteps + " " + _realSteps);
         }
 
 
@@ -345,16 +332,16 @@ public class MainActivity extends ActionBarActivity {
                 TextView description = (TextView) findViewById(R.id.instruction_view_text);
                 description.setText(descriptionText+" "); // Little work around to fix especial typeface
 
-                TextView stepsView = (TextView) findViewById(R.id.instruction_steps);
-                Log.e("origami", currentStep + " /" + totalSteps);
-                stepsView.setText(currentStep + "/" + totalSteps);
+                //TextView stepsView = (TextView) findViewById(R.id.instruction_steps);
+                //Log.e("origami", currentStep + " /" + totalSteps);
+                //stepsView.setText(currentStep + "/" + totalSteps);
 
                 // Especial font for latest screen
                 if (descriptionText.equals(context.getString(R.string.finished))) {
                     Typeface typeface = Typeface.createFromAsset(getActivity().getAssets(), "font.ttf");
                     description.setTypeface(typeface);
                     description.setTextSize(50);
-                    stepsView.setVisibility(GONE);
+                    //stepsView.setVisibility(GONE);
                 }
             }
         }
@@ -410,6 +397,11 @@ public class MainActivity extends ActionBarActivity {
             setRetainInstance(true);
         }
 
+        @Override
+        public void onDestroy() {
+            super.onDestroy();
+        }
+
 
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -418,7 +410,7 @@ public class MainActivity extends ActionBarActivity {
             View rootView = inflater.inflate(R.layout.fragment_instruction, container, false);
 
             // Show instruction only first 3 times
-            if (settings.getInt(SHARED_PREFS_OPENED_TIMES, 0) < 3) {
+            if (settings.getInt(SHARED_PREFS_OPENED_TIMES, 0) == 0) {
                 final RelativeLayout overlayLayout = (RelativeLayout) rootView.findViewById(R.id.instruction_overlay_layout);
                 overlayLayout.setVisibility(View.VISIBLE);
 
@@ -451,50 +443,49 @@ public class MainActivity extends ActionBarActivity {
              *
              */
             ArrayList<Instruction> list = new ArrayList<Instruction>();
-            try {
 
-                String path = "figures/" + this.folder + "/";
-
-                JSONArray globalArray = new JSONArray(MainMenuFragment.loadJSONFromAsset(
-                        path + "figure.json",
-                        getActivity()));
-
-                // Final screen (congratulations, prizes, medals, etc)
-                Instruction instructionFinish = new Instruction(
+            Instruction instructionFinish = new Instruction(
                     getResources().getString(R.string.finished),
                     getResources().getDrawable(
-                                getResources().getIdentifier(this.folder, "drawable", getActivity().getPackageName())
-                        ),
-                    totalSteps,totalSteps);
+                            getResources().getIdentifier(this.folder, "drawable", getActivity().getPackageName())
+                    ),
+                    totalSteps, totalSteps);
 
-                boolean isLangRu = false;
-                if (Locale.getDefault().getLanguage().equals("ru"))
-                    isLangRu = true;
+            String path = "/assets/figures/" + this.folder + "/";
+            AssetManager assets = getActivity().getAssets();
+            Activity activity = getActivity();
+            Resources res = getResources();
 
-                for (int i = 0; i < globalArray.length()-1; i++) { // '-1' because JSON is not so valid
-                    JSONObject item = globalArray.getJSONObject(i);
+            for (int i = 1; i <= this.realSteps; i++) {
+                Log.d("origami", "for=");
 
-                    AssetManager assets = getActivity().getAssets();
+                int resId = res.getIdentifier(this.folder + "_" + i, "string", activity.getPackageName());
 
+
+                try {
+                    Log.d("origami", res.getString(resId));
+                    Log.d("origami", path + "step" + i);
+                    Log.d("origami", " " + Drawable.createFromStream(activity.getClass().getResourceAsStream(path + "step" + i), null));
                     Instruction instruction = new Instruction(
-                            isLangRu ? item.getString("text-ru") : item.getString("text"),
-                            Drawable.createFromStream(assets.open(path + item.getString("image")), null),
-                            Integer.parseInt(item.getString("number")),
-                            this.totalSteps
+                        res.getString(resId),
+                        Drawable.createFromStream(activity.getClass().getResourceAsStream(path + "step" + i + ".png"), null),
+                        0,
+                        this.totalSteps
                     );
 
                     list.add(instruction);
-                }
-                list.add(instructionFinish); // Add final screen
 
-            } catch (Exception e) {
-                e.printStackTrace();
-                return rootView;
+                } catch (Exception e) {
+                    Log.e("origamizoo", e.toString() + " ");
+                }
+
             }
+
+            list.add(instructionFinish);
+
 
             InstructionAdapter adapter = new InstructionAdapter(getActivity(), list);
             pager.setAdapter(adapter);
-
 
             return rootView;
         }
