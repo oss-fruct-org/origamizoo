@@ -1,47 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-
-    <string name="app_name">Оригами зоопарк</string>
-	<string name="action_help">Инструкции</string>
-	<string name="action_about">О приложении</string>
-
-	<string name="about_version">Версия %1$s</string>
-	<string name="about_copyright">&#169; Copyright 2012 Mobile and Wireless Systems Lab of IT-park of Petrozavodsk State University (member of FRUCT association).</string>
-	<string name="about_grant">The application is the part of grant KA179 of Karelia ENPI CBC programme, which is co-funded by the European Union, the Russian Federation and the Republic of Finland.</string>
-	<string name="about_source">Спасибо проекту Origami Fun (origami-fun.com) за изображения оригами. \n\nSystembar tint. Copyright 2013 readyState Software Limited. Licensed under Apache 2.0 license</string>
-	<string name="instruction_swipe">Сдвигайте экран для следующей инструкции</string>
-	<string name="ok">ОК</string>
-	<string name="list_item_steps">%1$d&#160;шагов</string>
-	<string name="finished">Сделано!</string>
-	<string name="level">Сложность:&#160;</string>
-
-	<string name="inst_crease">Линия сгиба</string>
-	<string name="inst_valley_fold">Внутренний сгиб</string>
-	<string name="inst_fold_in_direction">Согнуть в этом направлении</string>
-	<string name="inst_fold_unfold">Согнуть и разогнуть</string>
-	<string name="inst_mountain_fold">Внешний сгиб</string>
-	<string name="inst_turn_over">Перевернуть</string>
-	<string name="inst_rotate">Вращать</string>
-	<string name="inst_blow_up">Надуть</string>
-
-    <string-array name="figures_names">
-        <item>Бабочка</item>
-        <item>Журавлик</item>
-        <item>Божья коровка</item>
-        <item>Рыба</item>
-        <item>Говорящая собака</item>
-        <item>Кружащая птица</item>
-        <item>Птица</item>
-        <item>Голова дракона</item>
-        <item>Машущая птица</item>
-        <item>Лошадь</item>
-        <item>Прыгающая лягушка</item>
-        <item>Сова</item>
-        <item>Пеликан</item>
-        <item>Воздушный заяц</item>
-        <item>Сидящая собака</item>
-        <item>Черепаха</item>
-    </string-array>
-
-
+  <string name="app_name">Оригами зоопарк</string>
+  <string name="action_help">Инструкции</string>
+  <string name="action_about">О приложении</string>
+  <string name="about_version">Версия %1$s</string>
+  <string name="about_copyright">© Copyright 2012 Mobile and Wireless Systems Lab of IT-park of Petrozavodsk State University (member of FRUCT association).</string>
+  <string name="about_grant">The application is the part of grant KA179 of Karelia ENPI CBC programme, which is co-funded by the European Union, the Russian Federation and the Republic of Finland.</string>
+  <string name="about_source">Спасибо проекту Origami Fun (origami-fun.com) за изображения оригами. \n\nSystembar tint. Copyright 2013 readyState Software Limited. Licensed under Apache 2.0 license</string>
+  <string name="instruction_swipe">Сдвигайте экран для следующей инструкции</string>
+  <string name="ok">ОК</string>
+  <string name="list_item_steps">%1$d шагов</string>
+  <string name="finished">Сделано!</string>
+  <string name="level">Сложность: </string>
+  <string name="inst_crease">Линия сгиба</string>
+  <string name="inst_valley_fold">Внутренний сгиб</string>
+  <string name="inst_fold_in_direction">Согнуть в этом направлении</string>
+  <string name="inst_fold_unfold">Согнуть и разогнуть</string>
+  <string name="inst_mountain_fold">Внешний сгиб</string>
+  <string name="inst_turn_over">Перевернуть</string>
+  <string name="inst_rotate">Вращать</string>
+  <string name="inst_blow_up">Надуть</string>
+  <string-array name="figures_names">
+    <item>Бабочка</item>
+    <item>Журавлик</item>
+    <item>Божья коровка</item>
+    <item>Рыба</item>
+    <item>Говорящая собака</item>
+    <item>Кружащая птица</item>
+    <item>Птица</item>
+    <item>Голова дракона</item>
+    <item>Машущая птица</item>
+    <item>Лошадь</item>
+    <item>Прыгающая лягушка</item>
+    <item>Сова</item>
+    <item>Пеликан</item>
+    <item>Воздушный заяц</item>
+    <item>Сидящая собака</item>
+    <item>Черепаха</item>
+  </string-array>
 </resources>
