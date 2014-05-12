@@ -20,7 +20,7 @@
 	<string name="finished">Finished!</string>
 
     <!-- Space character must be written as entity code -->
-	<string name="level">Comlpexity:&#160;</string>
+	<string name="level">Complexity:&#160;</string>
 
     <!-- Instructions page -->
 	<string name="inst_crease">Crease line</string>

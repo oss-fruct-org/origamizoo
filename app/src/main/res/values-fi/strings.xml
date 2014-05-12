@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string-array name="figures_names">
+    <item>Butterfly</item>
+    <item>Crane</item>
+    <item>Ladybug</item>
+    <item>Snapper</item>
+    <item>Talking Dog</item>
+    <item>Twirling Bird</item>
+    <item>Bird</item>
+    <item>Dragon Head</item>
+    <item>Flapping Bird</item>
+    <item>Horse</item>
+    <item>Jumping Frog</item>
+    <item>Owl</item>
+    <item>Pelican</item>
+    <item>Puffy Bunny</item>
+    <item>Sitting Dog</item>
+    <item>Tortoise</item>
+  </string-array>
+</resources>
