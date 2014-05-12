@@ -333,4 +333,17 @@
     <string name="twirling_bird_9">@string/twirling_bird_8</string>
     <string name="twirling_bird_10">To make the Twirling bird fly, throw it like a paper plane. It will tumble in circles!</string>
 
+    <string name="gplay_description">Origami is a traditional Japanese art or technique of folding paper into a variety of decorative or representational forms, as of animals or flowers.
+In our application "Origami Zoo" you can find the most popular animals which you can make using only one sheet of paper. Each figure comes with clearly illustrated steps and instructions.
+The application is the part of grant KA179 of Karelia ENPI CBC programme, which is co-funded by the European Union, the Russian Federation and the Republic of Finland.</string>
+
+    <string name="promo_page_title">Description</string>
+    <string name="promo_page_content">Origami is a traditional Japanese art or technique of folding paper into a variety of decorative or representational forms, as of animals or flowers.
+
+In our application "Origami Zoo" you can find the most popular animals which you can make using only one sheet of paper. Each figure comes with clearly illustrated steps and instructions.</string>
+<string name="promo_page_contact_us">Contact Us</string>
+<string name="promo_page_contact_content">We would love to hear your comments and questions. Please send them to samoryad@cs.karelia.ru.</string>
+
+    
+
 </resources>
