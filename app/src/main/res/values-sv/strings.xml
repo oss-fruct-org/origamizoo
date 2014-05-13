@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">Origami Zoo</string>
+  <string name="action_help">Instruktioner</string>
+  <string name="action_about">Om</string>
+  <string name="about_version">Version %1$s</string>
+  <string name="about_copyright">© Copyright 2012 Mobila och Trådlösa System Lab IT-park i Petrozavodsk Staten Universitet (ledamot av FRUCT).</string>
+  <string name="about_grant">Applikationen är den del av bidrag KA179 av Karelen ENPI CBC-programmet, som samfinansieras av EU, Ryska federationen och Republiken Finland.</string>
+  <string name="about_source">Tack till Origami Fun (origami-fun.com) projekt för origami diagram. \n\nSystembar tint. Copyright 2013 readyState Software Limited. Licensed under Apache 2.0 license</string>
+  <string name="instruction_swipe">Svep instruktioner till vänster och till höger</string>
+  <string name="ok">Ok</string>
+  <string name="list_item_steps">Steg: %1$d</string>
+  <string name="finished">Färdig!</string>
+  <string name="level">Komplexitet:</string>
+  <string name="inst_crease">Vecklinje</string>
+  <string name="inst_valley_fold">Intern veck</string>
+  <string name="inst_fold_in_direction">Vik i denna riktning</string>
+  <string name="inst_turn_over">Vända</string>
+  <string name="inst_rotate">Roterar</string>
+  <string name="inst_blow_up">Blåsa upp</string>
+  <string-array name="figures_names">
+    <item>Fjäril</item>
+    <item>Trana</item>
+    <item>Nyckelpiga</item>
+    <item>Fisk</item>
+    <item>Talking Dog</item>
+    <item>Twirling Bird</item>
+    <item>Bird</item>
+    <item>Dragon Head</item>
+    <item>Flapping Bird</item>
+    <item>Horse</item>
+    <item>Jumping Frog</item>
+    <item>Owl</item>
+    <item>Pelican</item>
+    <item>Puffy Bunny</item>
+    <item>Sitting Dog</item>
+    <item>Tortoise</item>
+  </string-array>
+</resources>

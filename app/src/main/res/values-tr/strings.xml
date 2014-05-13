@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">Origami Zoo</string>
+  <string name="action_help">Yönergeler</string>
+  <string name="action_about">Hakkında</string>
+  <string name="about_version">Sürüm %1$s</string>
+  <string name="about_copyright">© Telif hakkı 2012 Mobil ve Kablosuz Ağ Sistemleri BT Laboratuvarı-Petrozavodsk Devlet Üniversitesi parkı (FRUCT kurum üyesi).</string>
+  <string name="about_source">Origami çizgeleri için Origami Fun\'a (origami-fun.com) teşekkür ederiz. \n\nSystembar tint. Telif hakkı 2013 readyState Software Limited. Apache 2.0 lisansı altında lisans verilmiştir.</string>
+  <string name="instruction_swipe">Yönergeleri parmağınızla sola ve sağa kaydırın</string>
+  <string name="ok">Tamam</string>
+  <string name="list_item_steps">Adımlar: %1$d</string>
+  <string name="finished">Bitti!</string>
+  <string name="level">Karmaşıklık:</string>
+  <string name="inst_crease">Çizgiyi kırıştır</string>
+  <string name="inst_valley_fold">Vadi şeklinde kat izi</string>
+  <string name="inst_fold_in_direction">Bu doğrultuda katla</string>
+  <string name="inst_fold_unfold">Katla ve aç</string>
+  <string name="inst_mountain_fold">Dağ şeklinde kat izi</string>
+  <string name="inst_turn_over">Çevir</string>
+  <string-array name="figures_names">
+    <item>Butterfly</item>
+    <item>Crane</item>
+    <item>Ladybug</item>
+    <item>Snapper</item>
+    <item>Talking Dog</item>
+    <item>Twirling Bird</item>
+    <item>Bird</item>
+    <item>Ejder Kafası</item>
+    <item>Kanat Çırpan Kuş</item>
+    <item>At</item>
+    <item>Zıplayan Kurbağa</item>
+    <item>Baykuş</item>
+    <item>Pelikan</item>
+    <item>Şişkin Tavşan</item>
+    <item>Oturan Köpek</item>
+    <item>Kara Kaplumbağası</item>
+  </string-array>
+  <string name="bird_12">Bu katlamaları yapın ve açın.</string>
+  <string name="bird_13">Bu katlama izleri ile gizli ters kat izi kuşun kafasını ve kuyruğunu yapacak. Ayakları doğru açıda katladıysanız (adım 7\'de), modelin ayakta durması gerekir. İhtiyacınız olduğu taktirde ayakları açabilirsiniz.</string>
+  <string name="butterfly_2">Şimdi kağıdı her iki taraftan çaprazlama ikiye katlayın.</string>
+  <string name="butterfly_3">Tüm dört köşeyi merkezin içine doğru katlayıp iyice kırıştırın.</string>
+  <string name="butterfly_5">Tüm dört köşeyi tekrardan merkezin içine doğru çevirip katlayın.</string>
+  <string name="butterfly_7">Kat izleriniz buna benzemeli. Karmaşık görünüyor, ama endişelenmeyin!</string>
+  <string name="butterfly_8">Dış kenarları merkez çizgisine doğru katlayın.</string>
+</resources>
